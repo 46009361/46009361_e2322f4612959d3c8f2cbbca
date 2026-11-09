@@ -1,0 +1,3501 @@
+"id","title","description","datetime_created","datetime_shared","datetime_first_shared","view_count","love_count","favorite_count","instructions","language"
+"315834348","Untitled","","2019-06-08 03:20:37",\N,\N,"1","0","0","","en"
+"315899863","Untitled","","2019-06-08 18:49:17",\N,\N,"1","0","0","","en"
+"315899986","Untitled","","2019-06-08 18:51:00",\N,\N,"1","0","0","","en"
+"315900044","Untitled","","2019-06-08 18:51:50",\N,\N,"1","0","0","","en"
+"315915958","Untitled","","2019-06-08 23:27:21",\N,\N,"1","0","0","","en"
+"317074584","Untitled","","2019-06-15 03:06:57","2019-07-12 22:27:22","2019-06-15 14:06:57","4","0","0","","en"
+"317137656","Simple Piano with Cat","Inspired by virtualpiano.net","2019-06-15 18:55:25","2019-06-16 14:29:22","2019-06-15 19:37:02","1","0","0","Press the middle 8 of the 10 keys on the top row of the letters of a QWERTY keyboard to play any song with only notes C to C (next octave) (one octave supported). The cat says the note that will be played so you can get used to the piano quickly.","en"
+"317141657","Untitled","","2019-06-15 20:02:28",\N,\N,"1","0","0","","en"
+"317144472","Untitled","","2019-06-15 20:52:11",\N,\N,"1","0","0","","en"
+"317145496","Untitled copy","","2019-06-15 21:12:22",\N,\N,"1","0","0","","en"
+"317145510","Untitled copy copy","","2019-06-15 21:12:33",\N,\N,"1","0","0","","en"
+"317145517","Hungry Joe L1-2","","2019-06-15 21:12:39","2019-06-15 21:13:03","2019-06-15 21:13:03","1","0","0","","en"
+"318156654","Untitled","","2019-06-22 03:08:58","2019-06-29 15:57:57","2019-06-29 15:57:57","1","0","0","","en"
+"318157711","Untitled","","2019-06-22 03:28:14","2019-06-23 21:11:28","2019-06-23 21:07:46","1","0","0","","en"
+"318229345","Untitled","","2019-06-22 23:49:52","2019-06-22 23:49:57","2019-06-22 23:49:57","1","0","0","","en"
+"318278738","Untitled","","2019-06-23 15:47:25","2019-06-23 15:48:37","2019-06-23 15:48:37","1","0","0","","en"
+"318475470","Speed Game","","2019-06-25 01:24:23",\N,\N,"1","0","0","","en"
+"318572089","Public Chat","","2019-06-25 15:14:45","2019-06-28 14:33:11","2019-06-25 23:02:01","1","0","0","","en"
+"319084584","How long can you hold the button?","Why did I accidentally click the \"Unshare\" button after it's been shared since August 16, 2019? Silly me!\
+\
+Due to the fact that this was reshared a while ago, I decided to change the title back to \"How long can you hold the button?\" - March 05, 2020\
+\
+This was inspired by The Dumbest Game (How long can you hold the button?), which I found on a website called Bored Button (.com).\
+Credits:\
+Credit to @deck26 and some other people (such as @codeman1044) with helping me on some scripts using a forum.\
+Credit to @GarboMuffin for the TurboWarp detector (<[1] = <[1] = [1]>> only works on forkphorus) script!\
+Credit to @Cloud-Multiplayer and @TheLogFather (or @DadOfMrLog) for the New Scratcher detector (tutorial on how to make it. The scripts weren't exactly the same)!\
+","2019-06-28 23:35:48","2020-02-16 02:27:19","2019-08-16 14:22:42","400","17","14","Hold the button for as long as you can. Then, you will be notified if you beat the world record or not.\
+The world record and the world record holder can automatically change while you are still holding the button.\
+You can see the time that you've held the button until you have released from the button.","en"
+"319151695","One Sprite, One Script Drawing Applet","Drawing resets when you press green flag. Pen stroke size can change from 1 to 20 and starts at 10.","2019-06-29 16:36:13","2019-07-01 14:13:28","2019-06-29 16:53:50","21","1","1","Draw black strokes by moving the mouse whilst holding down the left key.","en"
+"319154797","Untitled","","2019-06-29 17:20:50","2019-06-29 17:21:11","2019-06-29 17:21:11","1","0","0","","en"
+"319350517","Untitled","","2019-07-01 14:15:06",\N,\N,"1","0","0","","en"
+"320345709","Untitled","","2019-07-09 18:44:03","2019-07-09 18:53:37","2019-07-09 18:53:19","1","0","0","","en"
+"320822751","Brawl-2","","2019-07-13 13:50:23",\N,\N,"1","0","0","","en"
+"320951582","Test project","","2019-07-14 23:31:14",\N,\N,"1","0","0","","en"
+"320952637","‏Make a Flag remix",\N,"2019-07-14 23:46:50",\N,\N,"1","0","0","","en"
+"320957605","One-Sprite Flag Quiz","The randomizing list idea was made by me, @kChiaEC19. First, I delete everything in two lists, one called \"copy of country list,\" and another called \"numbers already used.\" Then, I create a copy of the list by setting a variable called \"i\" to 1, and repeating the function x times (x = length of \"countries\"), then adding \"i\" of the countries to the copied list, next changing \"i\" by 1. Once I have finished copying the list, I set i back to 1, then pick a random number and store it in another variable from 1 to the length of the copy. Then, I use a function to check if the random number generated is in \"numbers already used.\" If not, I replace item i of countries with item \"random number\" of copy of country list, then add the random number to the numbers already used. This is to ensure that the same country isn't generated twice. Otherwise, I repeat the function again with a new random number. This is repeated 197 times.\
+Uploading the flag of Antigua and Barbuda was bugged (many times, please check https://scratch.mit.edu/discuss/topic/366300) so I used it and rotating/ungrouping to add the rays that weren't there.","2019-07-15 00:51:18",\N,\N,"1","0","0","You have to guess all 197 country flags of the world, including Kosovo and the Vatican City. (Yes, all 197). Eswatini used to be called Swaziland and North Macedonia used to be called Macedonia (before I made the quiz)\
+Examples of wrong and right answers:\
+Republic of France (wrong)\
+France (right)\
+China/Taiwan/Bahamas (wrong)\
+The People's Republic of China/The Republic of China/The Bahamas (right)","en"
+"320963986","Untitled","","2019-07-15 02:08:03",\N,\N,"1","0","0","","en"
+"321109488","Cloud Drag and Drop","- Dragging -\
+When you are dragging the object, a cloud variable is set to 1. This is to prevent another device or person from dragging at the same time. Once you release, it is set to 0. If a user accidentally leaves the page, another user must wait 30 seconds by having the project check if the reported value of the days since 2000 block multiplied by 86400 minus the reported value of the cloud variable of the last time it was dragged multiplied by 86400 is greater than 30. to make sure they didn't disconnect and actually left the page. We only update cloud variables once every 0.1 seconds (and only one of the four variables), which complies with the limits of actual cloud variables. If you test on two devices, you can see it jumping horizontally and vertically while dragging on the other device because of Scratch's limitations. You will, however, be only able to drag on one device at one time.\
+- Notes -\
+There are three green flag blocks, and each of them has a \"forever\" block sometime after these blocks.\
+- Credits -\
+Credit to the Scratch Wiki for the perfect workaround for \"when this sprite clicked\" block (as dragging scripts don't work in Scratch 3.0 due to the initial block not working, however, uses the set draggable mode to () block).","2019-07-16 03:09:49","2019-09-23 04:32:02","2019-09-23 04:32:02","31","1","1","Drag the cat or watch someone else drag. You may not drag at the same time as someone else or on another device. If someone disconnected during the drag, you will have to wait 30 seconds to take over the spot. Don't normally expect this to happen. They may have just stopped dragging. Wait a few seconds and then check.","en"
+"321180267","Draw with Me!","","2019-07-16 15:41:58",\N,\N,"1","0","0","","en"
+"321505919","Untitled","","2019-07-18 21:46:09","2019-07-20 15:56:28","2019-07-20 15:55:42","5","0","0","","en"
+"321774029","Untitled","","2019-07-21 12:00:40",\N,\N,"1","0","0","","en"
+"321809295","Roblox Obby remix",\N,"2019-07-21 21:27:07",\N,\N,"1","0","0","Check out my second 3d platformer:\
+https://scratch.mit.edu/projects/151360789/\
+\
+-Use WASD to move, Space to jump, and Arrow Keys or mouse to look around. Press 'm' to toggle mouse control\
+-Jump on the Blue platforms and get to the Green.\
+-Don't fall or touch Red blocks. \
+-Yellow blocks make you jump higher!\
+-Orange blocks deactivate red blocks.\
+-Purple Blocks teleport you from one place to another..\
+-There are Eight levels, can you finish them all?\
+-Your score is based on the number of completed levels and the number of attempts.\
+-See your position on the leaderboard by clicking the trophy icon.\
+","en"
+"321809349","Untitled","","2019-07-21 21:27:51",\N,\N,"1","0","0","","en"
+"321834923","High Score Username Converter remix",\N,"2019-07-22 02:45:44",\N,\N,"1","0","0","","en"
+"321886154","How to draw a 3-D Star Grid Drawing!! remix",\N,"2019-07-22 13:41:40",\N,\N,"1","0","0","UPDATE: PROJECT NOW MOBILE FRIENDLY\
+\
+\
+Hit the right arrow key to go forward a step, and the left arrow key to go back to the previous step. Pay attention to steps, it can get confusing!!\
+\
+Comments may be closed sometimes, I don't want to get spammed. (Actually, comment will rarely be on.)\
+\
+A lot of people told me that this is called a parabolic curve, so there you go!! :D","en"
+"322194570","Drag and Drop","-- Notes --\
+Note to parents and teachers: This can also be used to educate and teach children in the home or at the school if your child prefers a screen (hoping that the screen isn't too bright for your child). We have set two visible cloud variables so parents can learn how often other children (or other people) are improving from this gadget. Maybe your child is scared of toys just because one wooden toy gave him/her a splinter? Who knows? Even the most efficient, high-quality bamboo toys may give your child/children a splinter one day? Who knows what's going on with your child? Try fullscreen, although it might make it a little bit slower.\
+Sorry for the cat silhouette being not centralized. That is where the sprite's center was at the beginning.\
+-- Credits --\
+Inspiration for \"Congratulations! You solved the puzzle!\" message goes to @David_Hellam from the project triangle puzzle 2, at https://scratch.mit.edu/projects/1654249/, which I solved by looking at one of the comments.\
+Inspiration for \"drop\" idea (using the https://en.scratch-wiki.info/wiki/Go_to_()_(block) block) goes to @speckosaurus from the project Drag and Drop example, at https://scratch.mit.edu/projects/73453316/ for \"snapping to that location\" (I didn't look at the code).","2019-07-25 03:45:19","2019-07-26 14:14:23","2019-07-26 14:14:23","18","3","3","The mouse always starts in the center when dragging. A hidden cat in the bottom left corner will notify you for two seconds if the mouse touches a matching silhouette and the mouse isn't down, then stops all the scripts in all the sprites. Otherwise, if the mouse isn't down and the mouse touches the wrong silhouette, and only the wrong silhouette (the script for the mouse silhouette goes first), the cat will notify you, then you can continue dragging after the cat is hidden again.","en"
+"322504606","Untitled","","2019-07-28 21:18:42",\N,\N,"1","0","0","","en"
+"322569061","What do you want to do?","- Notes -\
+The only blocks used in this project are:\
+1. when green flag clicked\
+2. forever\
+end\
+3. ask [] and wait\
+4. say [] for () seconds\
+5. (join [][])\
+6. if <> then\
+else\
+end\
+7. (() * ())\
+8. set [ v] to []\
+9. (item # of [] in [ v])\
+10. (item () of [ v])\
+11. delete () of [ v]\
+12. delete all of [ v]\
+13. add () to [ v]\
+14. replace item () of [ v] with []\
+15. <[ v] contains [] ?>\
+16. <[] = []>\
+Credit to all users of the Scratch Wiki for inspiring me to do one sprite, one script, one costume projects.\
+Default \"Meow\" sound removed from Sprite1, and \"pop\" sound removed from Stage.","2019-07-29 14:06:07","2019-07-30 18:55:28","2019-07-29 16:51:01","16","1","1","The Scratch Cat, which is also the default mascot of the website when you create a new project, will ask you if you want to login, register, change the password, or delete the account.\
+If you read more of the instructions, you will see the word \"new\" (without the quotes) in parentheses. This means that the sentence will contain the word, but can be changed (in your imagination) to not include that word.\
+All accounts are deleted when you press the green flag.\
+Everything, including the passwords, are case-insensitive and stored in plaintext. (I found that out by testing it).\
+This is how the commands should be typed:\
+Login\
+Register\
+Change Password\
+Change Username\
+Delete Account\
+There are some restrictions on usernames. They are:\
+May not be empty.\
+May not exist on another account.\
+(Changing usernames): May not match the current username.\
+There are also some restrictions on passwords. They are:\
+May not be empty.\
+May not match the associated username.\
+The only data stored in the account is the username and password.\
+When you register or change the password, you will be asked to confirm the password for registering, or confirm the new password for changing the password.\
+Usernames are not registered if passwords don't match the requirements.\
+When you register, you will be asked to solve a CAPTCHA by multiplying two random numbers between 1 and 10 and also accept the Scratch Terms of Use and Privacy Policy, as well as the kChiaEC19 Terms of Service and Privacy Policy by typing \"Yes\" (without the quotes). If you solve it correctly (without any extra whitespace), your account is registered. Who knows, you might be asked to multiply the number by the same number, get the same CAPTCHA twice, or twice or even three times in a row, with the numbers in the same order every time!\
+To reset the password for an account, click \"See inside.\" Then, click on \"Variables\" and check the list \"usernames\". Next, find the username of the account you wish to reset the password for and memorize the associated number in the list. After that, uncheck the list \"usernames\", then check the list \"passwords\". Finally, look for the password associated with the number you just memorized in the list. Once you found the password, click \"See Project Page,\" then type the command \"Change Password\" (without the quotes), then type the username, then the password, then the new password that you want to reset it to, and then the same new password again, making sure to hit \"enter\" or press the checkmark after each step after finding out the password and pressing \"See Project Page.\"\
+The cat may warn you (for the specific command) if:\
+It doesn't recognize a command.\
+It doesn't recognize the username.\
+The current password doesn't match.\
+The new username matches the current username.\
+The (new) username is taken.\
+The (new) username is empty.\
+The (new) username matches the current password.\
+The new password matches the current username.\
+A different password is entered when you confirm the new password.\
+You did not accept the Scratch Terms of Use, the kChiaEC19 Terms of Service, and both Privacy Policies.\
+The CAPTCHA verification failed.","en"
+"322694712","Untitled","","2019-07-30 15:38:44",\N,\N,"1","0","0","","en"
+"322695625","Untitled","","2019-07-30 15:48:22",\N,\N,"1","0","0","","en"
+"322701784","What do you want to do? copy","-- Notes --\
+The only blocks used in this project are:\
+1. when green flag clicked\
+2. forever\
+end\
+3. ask () and wait\
+4. say () for () seconds\
+5. (join () ())\
+6. if <> then\
+else\
+7. (() * ())\
+8. set [ v] to ()\
+9. (item # of () in [ v])\
+10. (item () of [ v])\
+11. delete () of [ v]\
+12. delete all of [ v]\
+13. add () to [ v]\
+14. replace item () of [ v] with ()\
+15. <[ v] contains (thing)?>\
+16. <() = ()>\
+Credit to all users of the Scratch Wiki for inspiring me to do one sprite, one script, one costume projects.\
+Default Meow sound removed from Sprite1, and pop sound removed from Stage.","2019-07-30 16:55:26",\N,\N,"1","0","0","The Scratch Cat, which is also the default mascot, will ask you if you want to login, register, change the password, or delete the account.\
+All accounts are deleted when you press the green flag.\
+Everything, including the passwords, are case-insensitive and stored in plaintext. (I found that out by testing it).\
+This is how the commands should be typed:\
+Login\
+Register\
+Change Password\
+Delete Account\
+There are some restrictions on usernames. They are:\
+May not be empty.\
+May not exist on another account.\
+There are also some restrictions on passwords. They are:\
+May not be empty.\
+May not match the associated username.\
+The only data stored in the account is the username and password.\
+When you register or change the password, you will be asked to confirm the password for registering, or confirm the new password for changing the password.\
+Usernames are not registered if passwords don't match the requirements.\
+When you register, you will be asked to solve a CAPTCHA by multiplying two random numbers between 1 and 10 and also accept the Scratch Terms of Use and Privacy Policy, as well as the kChiaEC19 Terms of Service and Privacy Policy by typing \"Yes\" (without the quotes). If you solve it correctly (without any extra whitespace), your account is registered. Who knows, you might be asked to multiply the number by the same number, get the same CAPTCHA twice, or twice or even three times in a row, with the numbers in the same order every time!\
+The cat may warn you (for the specific command) if:\
+It doesn't recognize a command.\
+It doesn't recognize the username.\
+The current password doesn't match.\
+The new password matches the username.\
+A different password is entered when you confirm the new password.\
+You did not accept the Terms of Use, the Terms of Service, and the Privacy Policy.\
+The CAPTCHA verification failed.","en"
+"322713495","Untitled","","2019-07-30 18:52:44",\N,\N,"1","0","0","","en"
+"322739349","One-to-One Conversation","Credit goes to @Sillywilly24 for the matchmaking idea.","2019-07-31 00:09:42",\N,\N,"1","0","0","","en"
+"322919746","Untitled","","2019-08-01 14:44:16",\N,\N,"1","0","0","","en"
+"323133310","Untitled","","2019-08-04 03:00:17",\N,\N,"1","0","0","","en"
+"323522063","Untitled","","2019-08-07 22:56:19",\N,\N,"1","0","0","","en"
+"323599936","Untitled","","2019-08-08 14:50:32",\N,\N,"1","0","0","","en"
+"323600038","Untitled","","2019-08-08 14:51:47",\N,\N,"1","0","0","","en"
+"323661681","User verification project remix",\N,"2019-08-09 02:44:32",\N,\N,"1","0","0","This project is for user verification on Mod Share IV and the Scratch Wiki. It does not have any content other than that.\
+\
+When given the comment code, please comment it on this project EXACTLY as given, with nothing extra. This means do not add any whitespace or explanations.\
+\
+Also, comments on this project will be periodically deleted in order to keep things neat. If you have any feedback or advice on registration, please use the Mod Share forums or contact page (http://modshare.org/help) for Mod Share, and contact @jvvg about the Wiki, as he programmed the authentication system there.","en"
+"323798961","UNIX Time","Algorithm:\
+The number of seconds in a day is 86400. The number of days between January 1, 1970 and January 1, 2000 is 10,957, and 10,957 times 86400 is added to the number of days since the beginning of the year 2000 UTC multiplied by 86400. Then the whole result is rounded down.","2019-08-10 17:15:25","2019-08-17 01:00:24","2019-08-17 01:00:24","43","2","1","UNIX time or Unix time: The number of seconds (rounded down) since January 1, 1970 at 12:00:00.000 AM UTC (Coordinated Universal Time)","en"
+"323860585","Pong Starter",\N,"2019-08-11 18:06:19",\N,\N,"1","0","0","Move the mouse to control the paddle.\
+REMIX TIPS:\
+* Change what the ball looks like. \
+* Change the score if the ball touches the paddle.\
+* Add music that plays when the green flag is clicked.\
+* Add another ball using the duplicate tool\
+* Increase the speed of the ball each time it hits the paddle. ","en"
+"323929837","Untitled","","2019-08-12 13:30:40",\N,\N,"1","0","0","","en"
+"323931219","Asking without the ask block!",\N,"2019-08-12 13:46:00",\N,\N,"1","0","0","","en"
+"324049490","Untitled","","2019-08-13 13:46:11",\N,\N,"1","0","0","","en"
+"324224334","Untitled","","2019-08-14 23:08:06","2019-09-02 22:35:50","2019-08-24 19:57:27","15","0","0","","en"
+"324532268","Untitled","","2019-08-17 20:02:11","2020-02-10 02:53:37","2019-09-11 02:57:11","59","1","1","","en"
+"324819131","☁ Vote for my NEW LOGO! [CLOUD VOTE] remix",\N,"2019-08-20 14:55:06",\N,\N,"1","0","0","","en"
+"325281312","Safe Online Chat (live)-2","","2019-08-23 13:58:00",\N,\N,"1","0","0","","en"
+"326316698","Video and Audio Sensing Test","This is a good project to test your computer before you use others' projects containing Video Sensing extension- or microphone-involved projects.","2019-08-30 17:45:57","2019-08-30 18:11:39","2019-08-30 18:11:39","8","1","1","","en"
+"326425671","Cloud Tic Tac Toe","","2019-08-31 19:13:54",\N,\N,"1","0","0","","en"
+"326479208","Don't Throw Recycling in the Trash!","","2019-09-01 14:12:42",\N,\N,"1","0","0","","en"
+"326768768","Untitled","","2019-09-03 17:29:15",\N,\N,"1","0","0","","en"
+"326838908","Will the DVD logo hit the corner?","The movement speed is also based on the delay in the \"forever\" loop. This means that turbo mode will actually make it faster.\
+\
+(Yes, this was tested out) Every ~30–200 (depending on direction and starting position) wall hits, a corner hit is recorded. Two wall hits are also recorded in this instance. Sometimes false positives occur.\
+\
+New bug (didn't happen in the previous test, and I didn't change the code): Sometimes 2 new wall hits show two new corner hits, e.g. 57–59 wall hits at the same time as 0–2 corner hits.\
+\
+To detect if the DVD is hitting the corner, I needed to know how tall and wide the costume is. First, I divided the width by 2 and then subtracted it from half of the canvas width, and then checking if the absolute value of the X position of the sprite is greater than this value. I did the same with the Y position, just using the costume and canvas height instead of their widths. I then have to combine the two conditions using an AND condition. So, I have to check if the absolute value of the X position is greater than this value AND if the absolute value of the Y position is greater than this value. In JavaScript, it is interpreted like this:\
+\
+if ((Math.abs(xPosition /* clientX for HTML elements */) > value1) && (Math.abs(yPosition /* clientY for HTML elements */) > value2) {\
+  cornerCounter += 1;\
+}\
+\
+In JavaScript, && means AND.\
+\
+Update at 09/04/2019: Changed from OR methods to absolute value.\
+New update on same day: Changed from equals to greater.\
+New update on same day: Allowed speed change from 1 to 10. 5 by default.\
+Update at 09/05/2019: Added sounds for edge and corner hits.\
+New update on same day: Attempted to remove bug by fixing the corner detection. Shouldn't register 2 very close corner hits, only the one passed through 2 edges at once.\
+New update on same day: Sometimes two corner hits register still. Tested in Turbo mode to see that two corner hits occurred at exactly the same time.\
+Update at 09/07/2019: Added the ability to save and load your animation. This project is now no longer completely mobile-friendly.\
+Update at 09/08/2019: Added a warning when loading saved animation.\
+Update at 01/19/2021: Centred the DVD logo to accommodate for the new centring tool in the paint editor.\
+Update at 01/25/2021: Added a \"stop [other scripts in sprite v]\" block between \"delete all of [Please export v]\" and \"set [Corner Hits v] to [0]\"\
+\
+Credit to Wikipedia for the logo, W3Schools for the JavaScript tutorials, and Google for the calculations!","2019-09-04 01:28:44","2019-09-04 02:16:41","2019-09-04 02:16:41","113","11","5","This is a One Sprite One Costume (but five scripts) project.\
+\
+Press \"S\" to save and \"L\" to load. The logo will give you instructions as to how to do it. If you missed it, you can press the same key again to replay the instructions.","en"
+"327274030","Scratch Editor Tutorial!","","2019-09-06 02:42:12",\N,\N,"1","0","0","","en"
+"327461039","Hacked blocks!","Credit to the Scratch Wiki for making this possible!","2019-09-06 23:18:54","2019-09-08 15:26:41","2019-09-08 15:26:41","1","0","0","The only thing you can do is press the slash key. You can also look inside the editor and see a pink block.","en"
+"327645119","Untitled","","2019-09-08 22:10:55",\N,\N,"1","0","0","","en"
+"327900187","Untitled","","2019-09-10 01:52:54",\N,\N,"1","0","0","","en"
+"328405630","Untitled","","2019-09-12 01:11:23",\N,\N,"1","0","0","","en"
+"328898836","Untitled","","2019-09-14 01:45:07",\N,\N,"1","0","0","","en"
+"328947478","Which Keys Pressed? Workaround","I managed to create a workaround for a hypothetical block called (keys pressed), suggested on https://scratch.mit.edu/discuss/topic/53826/ by @Mad__Moss, according to the Scratch Wiki. All code (including names of lists), except for the inspiration behind it, is made by me.\
+According to the Scratch Wiki, in the experimental viewer, you can also use the Enter key. There are many hacked blocks, such as <key (join [en][ter]) pressed?> (notation on Scratch Forums or Scratch Wiki) This project has no sprites but one script.","2019-09-14 14:14:09","2019-09-14 19:11:45","2019-09-14 19:11:45","66","3","3","Checks which keys are pressed. Multiple keys can be pressed at once and usually all of them are shown on the list, unless so many keys are being pressed (depending on the OS). According to the fact that the Notes and Credits of this project say that there are many hacked blocks, the following keys can be pressed:\
+Space key\
+Up arrow key\
+Down arrow key\
+Right arrow key\
+Left arrow key\
+Keys ABCDEFGHIJKLMNOPQRSTUVWXYZ (will show in lowercase as this is how I made it and the block is case-insensitive)\
+Keys 1234567890\
+Enter key\
+Keys `~!@#$%^&*()-=_+[]\\{}|;':\",./<>? (yes, it can detect if it's a 8 or a *, which means it can detect the Shift key, but not alone.)","en"
+"329074411","Which Keys Pressed? Workaround copy","I managed to create a workaround for a hypothetical block called (keys pressed), suggested on https://scratch.mit.edu/discuss/topic/53826/ by @Mad__Moss, according to the Scratch Wiki. All code (including names of lists), except for the inspiration behind it, is made by me.\
+According to the Scratch Wiki, in the experimental viewer, you can also use the Enter key. There are many hacked blocks, such as <key (join (en :: custom-arg) (ter :: custom-arg)) pressed?> (notation on Scratch Forums or Scratch Wiki) This project has no sprites but one script.","2019-09-15 21:31:20",\N,\N,"1","0","0","Checks which keys are pressed. Multiple keys can be pressed at once and usually all of them are shown on the list, unless so many keys are being pressed. According to what the Notes and Credits of this project say, there are many hacked blocks, therefore the following keys can be pressed:\
+Space key\
+Up arrow key\
+Down arrow key\
+Right arrow key\
+Left arrow key\
+Keys ABCDEFGHIJKLMNOPQRSTUVWXYZ (will show in lowercase as this is how I made it and the block is case-insensitive)\
+Keys 1234567890\
+Enter key\
+Keys `~!@#$%^&*()-=_+[]\\{}|;':\",./<>? (yes, it can detect if it's a 8 or a *, which means it can detect the Shift key, but not alone.)","en"
+"329074766","Untitled","","2019-09-15 21:36:43",\N,\N,"1","0","0","","en"
+"329076374","How to Make a Leaderboard in Scratch","","2019-09-15 22:00:24",\N,\N,"1","0","0","","en"
+"330270343","Untitled","","2019-09-20 03:22:10",\N,\N,"1","0","0","","en"
+"330581092","Music Extension Tutorial","","2019-09-21 15:15:43",\N,\N,"1","0","0","","en"
+"330638099","11 cloud variables!","","2019-09-22 03:13:52",\N,\N,"1","0","0","","en"
+"331680928","Draw! (w/ Save & Load)","Bugs found and fixed during the making of this project before sharing:\
+-Drawing is one continuous line during load\
+-Drawing is one continuous loop during load\
+-If you save and load more than once, only the marks made after the last load count when making the last save\
+-Trailing zeroes at the beginning of the slider values (if less than 100)\
+Sometimes the screen flickers when drawing starts. This is not my fault, and instead is a problem between WebGL and Scratch.\
+Checks are in place to prevent invalid codes.\
+Change log (after share):\
+11/2/2019 - Prevented continuation of drawing until the mouse was back up again after clicking to close the save code, to prevent the drawing from accidentally changing when clicked if you pressed the S key by accident.","2019-09-26 03:16:27","2019-09-27 21:47:46","2019-09-27 21:47:46","36","4","3","Draw! Change red, green, blue, transparency, and thickness!\
+Share drawings, comments if comments off on project, or bugs here: https://scratch.mit.edu/discuss/topic/371035/\
+No erasing (except for drawing a white stroke) or undoing allowed, but press flag to reset drawing.\
+S = Save\
+Click to hide save code.\
+L = Load","en"
+"333110473","Untitled","","2019-10-02 00:15:37",\N,\N,"1","0","0","","en"
+"333833740","Press the flag or the stop sign!","","2019-10-04 02:55:13",\N,\N,"1","0","0","","en"
+"334178099","Detect New Scratcher remix",\N,"2019-10-05 15:43:24",\N,\N,"1","0","0","","en"
+"334191217","Untitled","","2019-10-05 17:40:23",\N,\N,"1","0","0","","en"
+"334286762","Clicker Game","Credit to @Scratchteam for the clicker game tutorial!","2019-10-06 15:42:47","2019-10-06 19:08:19","2019-10-06 19:08:19","10","1","1","Click on the balloon to score points!\
+Initial configuration:\
+Score = 0\
+Balloon Colour = Blue\
+X Position = 0\
+Y Position = 0\
+After click:\
+Score = Score + 1\
+Balloon Colour = Blue, Yellow, or Purple (chosen randomly)\
+X Position = Random Integer Between -240 and 240\
+Y Position = Random Integer Between -180 and 180","en"
+"334344890","Untitled","","2019-10-07 03:33:11",\N,\N,"1","0","0","","en"
+"334346556","Follow yourself with 1 account! - Tutorial / how to remix",\N,"2019-10-07 03:53:45",\N,\N,"1","0","0","","en"
+"334346933","Untitled","","2019-10-07 03:59:51",\N,\N,"1","0","0","","en"
+"335558899","Untitled","","2019-10-11 02:40:05",\N,\N,"1","0","0","","en"
+"335559003","Untitled-2","","2019-10-11 02:41:16",\N,\N,"1","0","0","","en"
+"335562911","Cloud List Engine","- Notes -\
+This project has no case sensing, as it is all lowercase for username encoding.\
+You may wonder why you see an empty argument for a function in the code. This actually has an important purpose. This is only used if the Users-1 variable is empty; meaning the list just got archived, or you are the first one to upload your username to the cloud variable. The way the decryption function works is that it checks if a trailing zero at the beginning of the cloud variable was removed by checking if the string is even; if so, it adds a 0 in front and adds a repeat block. Although it could (but shouldn't) report the value of the cloud variable, cloud variables are created as 0 by default; they cannot be blank. The function will tell the computer to decrypt 00; 00 signifies the end of a username, so an empty username would be added at the end of the list, as it will just be read as 00. If it was read as something like \"11030809010503273500\", it would decode as a list containing one item named \"kchiaec19\".\
+Extra equal signs are for the hypothetical \"true\" and \"false\" block workaround. Credit to the Scratch Wiki for the workarounds!\
+Credit to the Scratch Wiki and someone else who I don't remember on a closed discussion topic for the 00 ending idea!\
+The CAPTCHA script was made by myself. Robots tend to release the mouse very quickly after clicking on the mouse button, while humans tend to be a bit (or a lot in comparison) slower before releasing the button. I won't get into the exact details of how this works; you can look in the code to find out exactly how this works; it may potentially increase the likelihood of false positives.\
+- Credits -\
+Art and code by me (except an offline/online script by @_nix, I don't know which project because it was backpacked from @Cloud-Multiplayer).\
+Credit to @TheGhost06 for the thumbnail (they unshared the project).\
+Credit to Scratch Wiki and @ego-lay_atman-bay for the timer trick to hide the list (@ego-lay_atman-bay's might be different, but Scratch Wiki was the initial script).\
+Thanks for viewing, @PaddlerGames!","2019-10-11 03:26:04","2019-11-12 02:45:15","2019-11-12 02:45:15","73","4","2","I have created an advanced cloud list engine! It can support up to 192 users at once (at least if all of the usernames are three characters long; not including archived users).\
+This cloud list includes:\
+Logged Out Detector\
+Internet Connection Detector\
+The Name Of The Cloud List Has A Cloud Symbol In It\
+New Scratcher Detector\
+Instructions INSIDE Project\
+256-Character Limit Checking\
+Checks If Spots Are Full\
+Maintenance Checking (the owner can shut down the project at any time)\
+Can Be Archived By Owner\
+Duplicate Username Checking\
+Spam Prevention (0.1 Seconds Timeout For Cloud Variables Each Time)\
+CAPTCHA Check\
+Uploading Checker","en"
+"336066578","JSON-edited block!","","2019-10-14 02:31:32","2019-10-14 02:31:32","2019-10-14 02:31:32","1","0","0",\N,\N
+"336276283","Untitled","","2019-10-14 21:25:36",\N,\N,"1","0","0","","en"
+"336916957","Type a Question","Credit to @qucchia for the secret code tutorial (project is https://scratch.mit.edu/projects/310244290/)!","2019-10-16 20:27:50","2019-10-16 21:52:14","2019-10-16 21:52:14","12","2","2","Type any question on the keyboard and press Enter. If you type the correct (secret) question, you will get an honest answer and a sound from the cat!","en"
+"336960843","Untitled","","2019-10-17 00:45:19",\N,\N,"1","0","0","","en"
+"337266301","Scrabble Word Checker","List imported as text file from Jeff Boulter (http://www.boulter.com/scrabble/words/words.txt). License for list is available at http://www.boulter.com/scrabble/.\
+\
+I had to remove a blank line at the end of the list, otherwise it would say that an empty string would be a valid word.","2019-10-17 21:17:49","2019-10-18 18:29:45","2019-10-18 18:29:45","38","2","2","Enter in any Scrabble word. The cat will tell you if it's a valid Scrabble word or not.\
+WARNING: Do NOT use this to cheat by going to \"See inside\" and looking at the list.","en"
+"337683280","Special Detector v2! remix",\N,"2019-10-19 16:48:06",\N,\N,"1","0","0","Welcome to version 2 of Special Detector! Now it can detect: views, remixes, report (plz don't), copy link, and more. Please suggest more buttons I should add!\
+\
+Here are a few things it can detect: views, copy link, report, love, fave, fullscreen...\
+\
+If you find this useful, consider leaving a ❤️ & ⭐️!\
+\
+NOTE: this only works in the default viewer. The project breaks in fullscreen and in editor modes.\
+\
+HOW TO USE: to use this, backpack the \"detector\" sprite in your backpack. The information for the button the user is touching is stored in the \"touching\" variable.\
+Remember to give credit!","en"
+"337734727","Untitled","","2019-10-20 04:27:18",\N,\N,"1","0","0","","en"
+"337735565","Untitled","","2019-10-20 04:44:45",\N,\N,"1","0","0","","en"
+"337784429","Untitled","","2019-10-20 15:21:33",\N,\N,"1","0","0","","en"
+"337813464","Untitled","","2019-10-20 20:38:11",\N,\N,"1","0","0","","en"
+"337845830","All blocks inside Scratch!","","2019-10-21 02:13:31","2019-10-21 02:30:30","2019-10-21 02:30:30","42","4","5","Please see inside!","en"
+"339506788","Thumbnail Contest [ENDED]","","2019-10-26 00:05:03","2019-10-26 00:13:15","2019-10-26 00:13:15","8","1","1","Remix this project and create a thumbnail for my cloud list engine (not this project)! It is ready to be released on Oct. 29 (because of the spelling test on Oct. 30)!\
+The project with the most favorites will win and get a love!\
+In case of a tie, the project which was shared first will win!","en"
+"339513444","Untitled-2","","2019-10-26 01:13:19","2019-10-26 01:18:24","2019-10-26 01:18:24","2","0","0","","en"
+"339597210","Untitled","","2019-10-26 15:51:47",\N,\N,"1","0","0","","en"
+"339639015","Untitled","","2019-10-26 23:20:36","2019-10-26 23:28:00","2019-10-26 23:28:00","15","0","0","","en"
+"339732889","3D Cats","Everything by me except, well, the cat (excluding resize and scripts), they came from @Scratchteam instead :).\
+Inspiration from the starry background on @colinmacc's Hexxagon (☁️) project.\
+The cats in the background are always in the back, while the cats in the foreground are always in the front.\
+It also has an FPS counter for consistency, so it works well in Turbo Mode.\
+To prevent space from taking over entirely, it sets the size to a maximum of 50%. It also contributes to the 300 clone limit.","2019-10-27 19:43:54","2019-10-27 20:18:14","2019-10-27 20:18:14","23","4","2","Press the green flag and watch!","en"
+"339769063","Untitled","","2019-10-28 01:54:51",\N,\N,"1","0","0","","en"
+"339784256","3D Dogs","Everything by me except, well, the cat (excluding resize and scripts), they came from @Scratchteam instead :).\
+Inspiration from the starry background on @colinmacc's Hexxagon (☁️) project.\
+The cats in the background are always in the back, while the cats in the foreground are always in the front.\
+It also has an FPS counter for consistency, so it works well in Turbo Mode.\
+To prevent space from taking over entirely, it sets the size to a maximum of 50%. It also contributes to the 300 clone limit.","2019-10-28 04:23:18","2019-10-28 04:24:48",\N,"14","2","2","Press the green flag and watch!","en"
+"340070954","Detect New Scratcher remix",\N,"2019-10-29 00:50:23",\N,\N,"1","0","0","","en"
+"341447581","Scratch Bugs","Bugs:\
+Two functions can have the same name (I know that the alert about deleting block definitions and removing all uses of the block only shows when the last one is deleted).\
+Global variables and lists only check whether they are in the respective sprite or the Stage before they get deleted.\
+Other bugs (not project editor):\
+I still see © Unshared (the mirror image for the copyright symbol is a CSS or Cascading Style Sheets effect) after sharing, until I refresh the page.","2019-11-02 21:57:06","2019-11-02 22:05:17","2019-11-02 22:05:17","18","1","1","Please see inside!\
+You are welcome to backpack (?) (sorry, the backpack emoji turned into a question mark) the \"Bugged\" sprite, but only with giving me credit.","en"
+"341464596","Untitled","","2019-11-03 01:55:42",\N,\N,"1","0","0","","en"
+"341534906","All Stage monitors in Scratch!","All variables that can be checked.","2019-11-03 16:59:51","2019-11-03 17:06:37","2019-11-03 17:06:37","4","2","2","","en"
+"341580300","Both Ways - A Platformer","","2019-11-04 00:34:35",\N,\N,"1","0","0","Controls:\
+W, up arrow, or space to jump\
+A or left arrow to go left\
+S or down arrow to dig down (cannot go forever due to Scratch's limitations)\
+Note: Won't make a mark when digging down.\
+D or right arrow to go right","en"
+"342301565","Untitled","","2019-11-06 01:11:56","2019-11-07 03:11:15","2019-11-07 03:11:15","4","0","0","","en"
+"342338565","9 Favorite Scratchers and Myself Online/Offline Detector (0s1s + 1 backdrop) copy","Please set the time correctly configured on your computer to your network time, which must also be correctly configured before you set your computer time. If you don't, it will affect both you and other people's results if you are connected to the cloud servers. This is because the output of the \"days since 2000\" block is determined by the UTC time stored on your local computer by a JavaScript function called Date().","2019-11-06 05:12:19",\N,\N,"1","0","0","Watch whether a selected list of Scratchers are online or not.\
+Selected list:\
+@CapTV\
+@Cloud-Multiplayer\
+@griffpatch\
+@JWhandle\
+@kChiaEC19 (me)\
+@Nambaseking01\
+@run_script\
+@SirFlimFlam\
+@theChAOTiC\
+@Will_Wam","en"
+"343091538","All blocks inside Scratch with inputs!","All types of inputs are acceptable. My first remix of my own project (using two accounts method). Credit to @Will_Wam and the Scratch Wiki for the method!","2019-11-08 01:06:48","2019-11-08 01:13:17","2019-11-08 01:13:17","5","1","1","Please see inside!","en"
+"343420838","All blocks inside Scratch without inputs!","Credit to myself!","2019-11-08 23:25:18","2019-11-08 23:38:37","2019-11-08 23:38:37","9","1","1","Please see inside!","en"
+"343572962","Remembrance Day Celebration Project!","- Notes -\
+I made sure that you can't send celebrations to yourself. I also made sure that cloud variables don't get spammed more than every 0.1 seconds using a wait block, as well as making sure that two uploads don't conflict at the same time using a \"queue\" variable.\
+Removed sound on Nov. 10, 2019. \
+- Credits -\
+Credit to:\
+- @Will_Wam for inspiration (Christmas Gift Giving project)\
+- Hyacinth45 from Wikimedia Commons (https://upload.wikimedia.org/wikipedia/commons/1/12/Poppy_vector.svg) for the SVG image. I modified it by removing the pin (in case you're wondering, the rotation was actually the sprite, not the vector graphics).\
+- Scratch Wiki for the \"when this sprite clicked\" workaround, the costume case sensing (modified), and the queue variable idea (leaderboard article)","2019-11-09 23:08:51","2019-11-10 04:56:36","2019-11-10 04:56:36","17","1","1","Click on the poppy! Everyone else on the project will be notified that you celebrated using cloud variables!\
+There is a secret easter egg. If you type in the correct code, you will unlock a secret achievement permanently. You will then be able to pretend that you're sending the celebration from any other user. You must comment on the project if you want the privilege to be removed. It is highly recommended that you check for Scratcher status on your profile page first to ensure that it will upload, as we currently have no way to check if you are a Scratcher or not.","en"
+"343908179","Untitled","","2019-11-11 17:31:23",\N,\N,"1","0","0","","en"
+"343951577","Loading…","","2019-11-11 20:11:48",\N,\N,"1","0","0","","en"
+"343972699","Untitled","","2019-11-11 22:03:30",\N,\N,"1","0","0","Click or swipe on the squares to change what everyone's micro:bit will see!","en"
+"343995783","Untitled","","2019-11-12 00:42:43",\N,\N,"1","0","0","","en"
+"344015301","☁️ Vote for my NEW LOGO! [CLOUD VOTE]","***Voting has ended. I will be adding the votes of everyone who voted during the offline period soon.***  Guide for confused peeps (do what I do): https://youtu.be/Sjat42ymyPc  ⠀⠀⠀⠀⠀⠀⠀✦✦✦✦✦✦Welcome! :D✦✦✦✦✦✦ When you vote in this project, your vote is saved to the cloud. Votes are used to give statistics for each possible logo. You can still edit or remove your vote after voting if it hasn't been archived!  Please note there are safeguards to prevent people from voting more than once.  ⠀⠀⠀★・・・・・・★・・・・・・★・・・・・・★  VOTING ENDS ON SEPTEMBER 7th, 2019. After it ends, I'll create a project containing my new logo and possibly a new intro!  ⠀⠀⠀★・・・・・・★・・・・・・★・・・・・・★  Sometimes all votes become archived to allow new votes to come in. This is necessary to accommodate a  large amount of votes (this project was designed over user friendliness and getting the project curated).  If your vote has been archived and you wish to change/remove it, you may contact me and I may or may not accept the request.  ⠀⠀⠀★・・・・・・★・・・・・・★・・・・・・★  NOTE: The logos in the thumbnail were just randomly selected. They aren't better than the other ones or anything like that.  ⠀⠀⠀★・・・・・・★・・・・・・★・・・・・・★  Everything in this project was made by me except three small encode/decode scripts (from @griffpatch) and the music (from @Will_Wam).  H̴̢̢̢̨̨̨̨̢̟̯̲̝̳͈̦̯̰͈͕͔̭͎͓͇̼̩͇̩̮̲̩͖̼͚̯̰̱̺̗̞͖͈̘̭͎̫͇̟̼̘̜͈̩͚̤̱̹̣͓̺͚̖̯͕̻̟̯͖̳̻̯̻̹̻̫̱͇̼̻̰̮̦͓͙̣͇̮͉͉̯͈̻̀̀̏͛͋̉̈́̄͆̋̀̅̆͋͒͂̌̀̒̎̈́̋̇̆͗̇̓͋̂͑̒̈́̿̀̄̿̏̂̈́́̃͛̾͛̾͗͋̀̏͂̄̅̓̈̅̊͋͊̈̐̓͋́̆̄̅͆͋͗͆̈͑̕̕͘̕̚̕͘͘̕̕͜͝͝͝ͅͅͅȩ̴̧̛̙̹̩͍͇̰̠̲͖̻̝̳̜̩͕̜̟̟̙͉̙̠͙̹̠̼͕̤̝̮̩̯̮̲̘̻̲̗̤̎͆̈́͛̀͜ͅͅļ̴̨̢̢̧̧̢̧̧̧̛̰̦̟̲̮̠͇̠̞͇͈̫̼̲̝̗̝̮̖͖̺̱̭̮̱̤͍̭̗̖̮͉̮͙͚͕̜̹̳̞̹͙̤̺̝̰̤̪̗̭̪̣̙̖͖͖͍̯̮̥̝̗̹̬̳͕̟̲̦̤͚͎̠̝̠̹̥͙̳̹̣͖̗̉̇́̾͛̄͌́͋̀̆̽̌̓͊̕̚͠͝ḻ̶̡̧͚̝͍̝̤͈̙͕̺̙̠̱̄̊̚͘͝ơ̵̧̨̛̝͍͓̩̟͎̪̭͎̦͎̟͈̭̪͍̮͍̜̭̥̜̰̖͈̮̺̫̠̩͔̟͊͗̌̀͑̄̆̈́͊́̌̐̓̎̋̌͛́͊̃͌͊̈̂̏̈́̊̆̋̂̀̔́̑͂͌̂̽͗̋̄͗̅͋̇̊̅͑̿̀̈́́̿̈́͆̈́̇͛̆̏͋̾̃͘͘̕̕̕̚͘͜͠͝͠ͅ","2019-11-12 02:28:14","2019-11-12 02:34:36","2019-11-12 02:34:36","2","0","0","","en"
+"344406889","Untitled","","2019-11-13 02:02:45",\N,\N,"1","0","0","","en"
+"344810067","","","2019-11-14 01:48:02",\N,\N,"1","0","0","","en"
+"345552857","Some PHP code","<?php\
+echo \"hello\";\
+?>","2019-11-16 00:52:26","2019-11-16 00:57:18","2019-11-16 00:54:34","44","2","2","This is the Instructions, not the Notes and Credits! Please look down here:\
+ |\
+ |\
+ |\
+V","en"
+"345661062","Infinity - A Mobile-Friendly Randomly Generated Platformer","Is the framerate too low (i.e. ≈15 FPS/your eyes don't see a smooth animation)? Play here instead! → https://turbowarp.org/345661062/fullscreen?hqpen&stuck&offscreen\
+\
+Credit to @avobog for all the art and scripts (some modified) (Platformer script originally from @_Sunstrike_)!\
+Credit to @qucchia for the mobile-friendly platformer tutorial!\
+Credit to @joshiesays for the recursive thumbnail tutorial!\
+Credit to @deck26 for fixing the scripting bug!\
+Credit to @sebastian2800 for helping me fix the lag at https://scratch.mit.edu/projects/526268760!\
+Credit to whoever made the https://scratch.mit.edu/discuss/youtube/knuCwZPs1P0/ YouTube video for the Vexento - Fireworks music!\
+Nov. 19, 2019 - Most-viewed project of mine — before that, my most-viewed project was \"How long can you hold the button?\"\
+Mar. 2, 2020 - The grand title for my most-viewed project has been taken over by a newer project, \"Flying Game with Save and Load!\"","2019-11-16 17:32:16","2019-11-16 17:56:15","2019-11-16 17:56:15","915","27","19","----------------------------------Intro---------------------------------\
+Welcome to Infinity - A Mobile-Friendly Randomly Generated Platformer! There are an infinite amount of levels which are all possible. To go to the next level, you just need to get the player to the other side of the screen. If you touch red, you will \"die\", or more specifically, start the level from the beginning.\
+--------------------------------Controls------------------------------\
+Arrow keys, WASD, or finger on mobile to move.\
+Click on the player or press space to super jump. This move can only be used once per 2 seconds.\
+No skipping levels!","en"
+"345783233","Help us make an OS detector!","","2019-11-17 16:44:33",\N,\N,"1","0","0","","en"
+"345861997","Untitled","","2019-11-18 04:11:04",\N,\N,"1","0","0","","en"
+"347011805","How to promote someone in a studio to manager easily without finding themselves","I'm not the only one that wanted to promote a curator in a studio to a manager with A LOT (really a lot) of curators, right?? (This is actually not my situation) UGHHH YOU NEED TO SCROLL AND SCROLL AND SCROLL AND SCROLL AND SCROLL UNTIL YOU FIND THEMSELVES... So, I made it easier!  ________________________________________ Using this project, you can promote a curator to a manager in a studio with millions of curators in less than 15 seconds! The only thing you need to do is pasting the studio link and then running the code in your browser console; that's all! Now, you don't have to keep scrolling and scrolling when trying to find their username without worrying about accidentally clicking the wrong promote button! :D\
+\
+No, you can't cheat by promoting yourself.\
+- Credits -\
+Credit to @World_Languages for some of the scripts and art\
+Credit to @Will_Wam for the reference\
+Credit to FEWZ for the Mystic Tides music","2019-11-21 01:45:08","2019-11-21 02:01:31","2019-11-21 02:01:31","102","9","8","Press space or click to move forward.","en"
+"347419738","Take Pictures! (w/ Save and Load)","Credit to the Scratch Wiki for the original decimal-to-hexadecimal number conversion script!\
+Credit to @deck26 for fixing the bug!","2019-11-22 01:30:34",\N,\N,"1","0","0","Click to create a save code.","en"
+"347540267","Script area which will be shared for help with scripts","","2019-11-22 12:56:39","2019-11-22 12:59:29","2019-11-22 12:59:29","2","0","0","Look inside the sprite","en"
+"347595204","Take Pictures! (w/ Save and Load) copy","Credit to the Scratch Wiki for the original decimal-to-hexadecimal number conversion script!\
+Credit to @deck26 for fixing the bug!","2019-11-22 15:22:23","2019-11-22 15:24:53","2019-11-22 15:24:53","2","0","0","Click to create a save code.\
+\
+*Showing Color variable*\
+\
+*Load not available yet*","en"
+"347602792","The Very First Project That Can Be Recovered On Scratch!","You can download both shared and unshared projects by going to https://projects.scratch.mit.edu/{project-id}, replacing \"{project-id}\" with the ID of the project.\
+\
+Update: @Paddle2See told me just now that it actually dates back to May 2019, nowhere near Scratch's release date. He also has no idea why it rolled back to the ID of 1 and saw that it appears to be owned by a Scratch Team member. I am still trying to find the username of that so-called \"Scratch Team member.\"\
+\
+Original project title: \"Demo project for testing\"","2019-11-22 15:40:45","2019-11-22 15:58:54","2019-11-22 15:58:54","55","3","2","Watch as the cat glides 1 second permanently (until you stop it, of course!) to a random position!","en"
+"347775699","Flat Sphere","This sphere contains flat circles rather than balls, but it's easy to control as they're just costumes.\
+Credit to @griffpatch!","2019-11-23 03:12:08","2019-11-23 03:29:07","2019-11-23 03:29:07","23","2","1","Use the Arrow Keys or Mouse to roll the ball.","en"
+"347998954","Nambaseking01 OS","*PLEASE READ EVERYTHING HERE BELOW BEFORE SAYING ANYTHING IN THE COMMENTS*\
+- Notes -\
+Please don't report me for making this; @Nambaseking01 gave me permission, as shown in the link to the comment below:\
+https://scratch.mit.edu/users/Nambaseking01/#comments-64585650\
+If you can't read the comment, it says:\
+\"Go ahead, but I'm currently busy with creating Proli, so I can't help you create the OS.\"\
+If you decide to remix, please keep the invisible rectangles on the clock hands. They are used to prevent the clock hands from not showing. Please see the person who pointed out the bug below.\
+When clicking on the music icon, the song will be played, which you can click on to pause and play the song (extra ellipsis costume shown while loading sound to play from paused sound). The longer the sound has played before it paused, the longer it will take to load when continuing play (because of the wait block). The icon should switch back to the music emoji after finished playing, but sometimes it's delayed; however, it's not my fault.\
+I apologize that I can only play one song, the song sometimes resumes at the wrong point, and I can move the mouse pointer onto the button while down from outside the button and then release the mouse instead of clicking, but @EIephant_Lover doesn't allow me to edit the two pause/play scripts (a broadcast and a function).\
+Sometimes, I have more than one user crediting me for inspiring me to do a certain app. When I credit the extra users, I don't credit the original user anymore; because he/she was already credited for being the first inspiration of the (thing). However, the numbers related the words (triple (3), quadruple (4)) include the original person credited as well.\
+-- Changelog --\
+Since the Notes and Credits for this project were too long to store its complete changelog, I decided to put it in this project: https://scratch.mit.edu/projects/363306675\
+- Credits -\
+Beta testing by me!\
+Credit to @joshiesays for the recursive thumbnail tutorial!\
+Credit to @Nambaseking01 for the logo, as well as the text color, which matches the color of the crown in the logo! (I imported it as a profile picture and then changed it to vector, then I added text.)\
+Credit to @qucchia for two things: pointing out the one line only vector sprites bug and its workaround and the idea of putting warning texts behind bitmap images in vector images!\
+Credit to @54329 for inspiration for the clock (quadruple inspiration for clock; extra credit goes to @8243874, @BirdNani, and @Andy_Fish2121), clicker, camera (triple inspiration for camera; extra credit goes to @BirdNani and @JWhandle), menu button, music, and special function (double inspiration for special function; extra credit goes to @SirFlimFlam, but named administrative function on his side)!\
+Credit to @EIephant_Lover for the pause/resume sound scripts!\
+Credit to @Scratchteam for inspiration to make a pong game (I used the same backdrop, too)!\
+Credit to @adazem009 for the \"if touching sprite, bounce\" tutorial (and script portion)!\
+Credit to @TenType for the turbo mode detector!\
+Credit to @TheLogFather for the two hash scripts.\
+Loved and favorited by @Nambaseking01!\
+Credit to @PaddlerGames for the idea of moving the changelog somewhere else when the Notes and Credits were too long (I modified the idea by changing it from a studio to a project).\
+Credit to Lil Nas X from YouTube for the music!\
+I don't know who made the original music, but I found the John Cena sound effect on YouTube.","2019-11-24 18:02:38","2019-12-12 05:57:39","2019-11-25 15:53:21","79","5","4","*PLEASE READ EVERYTHING HERE BELOW IN CASE THERE'S AN EMOJI FONT RENDERING PROBLEM WITH YOUR DEVICE*\
+Login/Logout Code: 1234\
+You can't actually take pictures and videos with the camera.\
+This is mobile-friendly and you can click on the labeled (words) or emojified icons!\
+Clicking on the clicker icon will result in your click being added to the database.\
+Picture icons (if you can't see the emoji):\
+Top left: Camera\
+Top middle: Clock\
+Bottom left: Music w/ pause/play (can change emoji from time-to-time)\
+You can play only the song Lil Nas X - Old Town Road.\
+The song will stop (and you have to restart too!) when logged out.\
+- Pong -\
+Use mouse to move paddle. If you touch the paddle, the score increases by 1 and the ball moves a little faster. If you touch the red line, the game is over.","en"
+"348022022","Untitled","","2019-11-24 21:42:55",\N,\N,"1","0","0","","en"
+"348752874","Everything Sphere (w/ my Flat Sphere costumes)!","Credit to @griffpatch, @anguyen319, @cs3279110 (the real Spider-Man), @kevinlin106, @Stefstuntpiloot2008, @Rav09, @RobloxObjectThingy, and @ZYellow!\
+Changes:\
+Changed \"Griffpatch\" in the text to \"griffpatch\".\
+Added my costumes from my Flat Sphere remix and remove @griffpatch's \"blank\" costume.\
+Cleaned up all blocks.\
+Update: Apparently, someone clicked the \"Remix\" button on @ZYellow's project first and shared theirs after I shared mine first, but it looks like they shared first because remixes are sorted by project ID.","2019-11-27 04:45:22","2019-11-27 04:54:55","2019-11-27 04:54:55","70","7","6","Use the arrow keys or mouse to roll the ball.","en"
+"349039917","Untitled","","2019-11-28 03:19:22",\N,\N,"1","0","0","","en"
+"349051982","Untitled","","2019-11-28 04:58:08",\N,\N,"1","0","0","","en"
+"349604848","Untitled","","2019-11-30 17:20:23",\N,\N,"1","0","0","","en"
+"349605151","Untitled","","2019-11-30 17:23:01",\N,\N,"1","0","0","","en"
+"350525301","Untitled","","2019-12-04 02:31:30",\N,\N,"1","0","0","","en"
+"350897092","Cloud Multiplayer Ball Game!","Inspiration from @Cloud-Multiplayer!","2019-12-05 00:50:23",\N,\N,"1","0","0","Use the arrow keys, WASD, or finger or mobile to move.\
+You can go through balls, go through the edge (unless in the editor, of course, you!), and the like.\
+It can support up to 10 players.\
+It will check if you are not logged in.\
+It will also check if someone overwritten your slot.","en"
+"350905667","The Unremixable project remix remix",\N,"2019-12-05 01:34:58",\N,\N,"1","0","0","","en"
+"350932260","I already did. remix",\N,"2019-12-05 04:55:32",\N,\N,"1","0","0","It turns out that there is a very simple way to remix this project. I won't spoil it unless I am asked directly by the project creator on how I did it.\
+\
+Credit for the original project goes to: @JuegOStrower","en"
+"351089175","The \"Remixable\" Version of @JuegOStrower's \"Unremixable Project\"","Credit to @JuegOStrower for the original project (his/hers got deleted, so there is no remix notice above).\
+This was shared a while ago (December 5, 2019) with the following statistics:\
+\
+One love\
+Zero favs\
+Zero remixes\
+Eight views\
+Just a default Scratch cat\
+Remixeable\
+Original title was, \"The UNREMIXEABLE project, can you remix it?\" (Why is there an e between remix and able?)\
+Got taken down by the ST and I got alerted falsely, because remixes of original projects automatically get taken down.\
+There is a \"Share\" button in the editor for me, but it won't work, since it got hidden in the project page and is probably checked server-side.\
+\
+\"Remix\" image by @qucchia\
+\
+I heard @EIephant_Lover and someone else had the same issue, but their comment got lost in the sea of comments, so I can't focus on finding the comment link using @bigpuppy's tutorial right now.","2019-12-05 15:09:06","2019-12-05 15:10:48","2019-12-05 15:10:48","8","1","0","Press the \"(Scratch changed the cyclone emoji into a question mark here, so I took it off and replaced it with this) Remix\" button.","en"
+"351286553","The UNREMIXEABLE project, can you remix it? + 4 Extra Bugs! remix",\N,"2019-12-06 00:51:35",\N,\N,"1","0","0","","en"
+"351613702","Untitled","","2019-12-07 00:18:32",\N,\N,"1","0","0","","en"
+"351614986","Nambaseking01 OS copy","*PLEASE READ EVERYTHING HERE BELOW BEFORE SAYING ANYTHING IN THE COMMENTS*\
+- Notes -\
+Please don't report me for making this; @Nambaseking01 gave me permission, as shown in the link to the comment below:\
+https://scratch.mit.edu/users/Nambaseking01/#comments-64585650\
+If you can't read the comment, it says:\
+\"Go ahead, but I'm currently busy with creating Proli, so I can't help you create the OS.\"\
+If you decide to remix, please keep the invisible rectangles on the clock hands. They are used to prevent the clock hands from not showing. Please see the person who pointed out the bug below.\
+When clicking on the music icon, the song will be played, which you can click on to pause and play the song (extra ellipsis costume shown while loading sound to play from paused sound). The longer the sound has played before it paused, the longer it will take to load when continuing play (because of the wait block). The icon should switch back to the music emoji after finished playing, but sometimes it's delayed; however, it's not my fault.\
+I apologize that I can only play one song, the song sometimes resumes at the wrong point, and I can move the mouse pointer onto the button while down from outside the button and then release the mouse instead of clicking, but @EIephant_Lover doesn't allow me to edit the two pause/play scripts (a broadcast and a function).\
+Sometimes, I have more than one user crediting me for inspiring me to do a certain app. When I credit the extra users, I don't credit the original user anymore; because he/she was already credited for being the first inspiration of the (thing). However, the numbers related the words (triple (3), quadruple (4)) include the original person credited as well.\
+-- Changelog --\
+Nov. 27, 2019 - Shared for Help with Scripts forum w/ title \"Nambaseking01 OS (BETA)\".\
+Nov. 30, 2019 - Unshared.\
+Dec. 01, 2019 - Reshared!\
+Dec. 01, 2019 - Added sound for Pong game.\
+Dec. 02, 2019 - Added tick sound for clock and changed scripts (and changed them again!).\
+Dec. 03, 2019 - Removed tick sound for clock as the new script was causing issues.\
+Dec. 03, 2019 - Added turbo mode detector prior to playing Pong!\
+Dec. 05, 2019 - Used a better way to determine the unlock code!\
+Dec. 05, 2019 - Fixed script as code wasn't working. The bug: it checked the first character and not a new one each time.\
+- Credits -\
+Beta testing by me!\
+Credit to @joshiesays for the recursive thumbnail tutorial!\
+Credit to @Nambaseking01 for the logo, as well as the text color, which matches the color of the crown in the logo! (I imported it as a profile picture and then changed it to vector, then I added text.)\
+Credit to @qucchia for two things: pointing out the one line only vector sprites bug and its workaround, and the idea of putting warning texts behind bitmap images in vector images!\
+Credit to @54329 for inspiration for the clock (quadruple inspiration for clock; extra credit goes to @8243874, @BirdNani, and @Andy_Fish2121), clicker, camera (triple inspiration for camera; extra credit goes to @BirdNani and @JWhandle), menu button, and music!\
+Credit to @EIephant_Lover for the pause/resume sound scripts!\
+Credit to @Scratchteam for inspiration to make a pong game (I used the same backdrop too!)!\
+Credit to @adazem009 for the \"if touching sprite, bounce\" tutorial (and script portion)!\
+Credit to @TenType for the turbo mode detector!\
+Loved and favorited by @Nambaseking01!\
+Credit to Lil Nas X from YouTube for the music!","2019-12-07 00:30:05",\N,\N,"1","0","0","*PLEASE READ EVERYTHING HERE BELOW IN CASE THERE'S AN EMOJI FONT RENDERING PROBLEM WITH YOUR DEVICE*\
+Login/Logout Code: 1234\
+You can't actually take pictures and videos with the camera.\
+This is mobile-friendly and you can click on the labeled (words) or emojified icons!\
+Clicking on the clicker icon will result in your click being added to the database.\
+Picture icons (if you can't see the emoji):\
+Top left: Camera\
+Top middle: Clock\
+Bottom left: Music w/ pause/play (can change emoji from time-to-time)\
+You can play only the song Lil Nas X - Old Town Road.\
+The song will stop (and you have to restart too!) when logged out.\
+- Pong -\
+Use mouse to move paddle. If you touch the paddle, the score increases by 1 and the ball moves a little faster. If you touch the red line, the game is over.","en"
+"351745480","Please stop (FIXED SPELLING AND GRAMMAR)","Credit to @JWhandle for the original project!\
+Credit to @joshiesays for the recursive thumbnail tutorial!\
+Changes:\
+Also fixed semicolon splices, removing unnecessary words, making two or more sentences into one, and changing long strings into short strings.\
+Fixed costume names.","2019-12-07 21:33:19","2019-12-08 01:51:24","2019-12-08 01:51:24","86","5","4","Watch the project.","en"
+"351778569","Untitled","","2019-12-08 05:23:20",\N,\N,"1","0","0","","en"
+"351834286","All My Followers!","Find all my followers here (as an array of JSON objects):\
+https://api.scratch.mit.edu/users/kChiaEC19/followers/\
+Credit to all the followers!\
+Credit to Scratch Wiki for mentioning who created the default user profile picture!\
+Credit to @Will_Wam for the idea for using these extra keys!","2019-12-08 16:20:12",\N,\N,"1","0","0","To move forward one slide:\
+Click on the right side of screen, Space, Up arrow, Right arrow, W, or D.\
+To move backward one slide:\
+Click on the left side of the screen, Down arrow, Left arrow, S, or A.","en"
+"352642184","☁️ Infinite Cloud Project Rating System! ☁️","NOTE: New Scratchers and signed-out users cannot rate! Also, this was shared twice, because the other person didn't accept the first server request.\
+Thanks to @haydenledean for the non-24/7 server @-ReadyBoy-!\
+This is currently in beta, so you can feel free to comment your rating and I will check it to make sure the rating was set properly on the server. Once enough ratings commented have been found correct by me (through the owner's login function), I will put another announcement in the comments and remove this notice.\
+Credit to the Scratch Wiki for the phosphorus.github.io/sulfurous.aau.at detector (only works in forkphorus.github.io because of 3.0), the \"when this sprite clicked\" workaround, and the \"letters () through () of ()\" workaround (I modified some of the names in the last one).\
+The server script (the broadcast) is way, WAY, WAYYYY simpler than the client script.\
+You can only see your own ratings on the project viewer, not percentages or other users' ratings, to prevent cyberbullying.\
+Due to technical limitations on Scratch, the server's lists can only hold 200,000 users.\
+Thanks @SirFlimFlam for viewing (first share)!\
+Thanks @haydenledean and @Nambaseking01 for loving and favoriting!\
+Thanks @Paddle2See for restoring an entire comment chain that I deleted by accident (gave link as well)!","2019-12-11 00:24:04","2019-12-19 06:00:07","2019-12-18 01:37:48","204","7","8","Click on a different star than your previous rating to rate.\
+Click on the same star as your previous rating to remove your rating.\
+Once you click on a star and post your rating to @-ReadyBoy-, your rating will download again. If you see the wrong rating, either there is a bug with the project or the cloud data was sent incorrectly either in the logs or the actual data (which should only happen one in every few billion or so, due to computer technology advancing nowadays).\
+View your project's status in the top left corner.\
+Note: Status will not always show.\
+(Important: All instructions below are for @-ReadyBoy- only.)\
+- How to Backup Ratings -\
+Press the B key to save backups.\
+Answer the prompt to confirm.\
+Wait for the backup code to generate.\
+Triple-click the list item to select it.\
+Press Ctrl+C or right-click on the selected part → Copy.\
+Save it somewhere by creating a new text box or overwriting the previous text box (for overwriting existing backups) that can save in a program or website that can save text and pressing Ctrl+V or right-click on the text box → Paste.\
+Click outside of the list to hide the save code. Make sure you saved it somewhere beforehand!\
+- How to Restore Backups -\
+Press the R key to restore backups.\
+Answer the prompt to confirm.\
+Locate the file where the backup code was saved and open it up with the same program or website in which you saved the backup code in.\
+Triple-click the text box that shows up on the program or website to select the line.\
+Press Ctrl+C or right-click on the selected part → Copy.\
+Go back to the browser in which you opened the project up on and click on the project's input box.\
+Press Ctrl+V or right-click on the project's input box → Paste.\
+Note: I highly recommend doing these while the project is stopped to prevent the backup/restore codes from not working properly.\
+Note 2: @-ReadyBoy- won't see the thumbnail at all after clicking the green flag, even if the stop button is pressed, unlike the rest of the people on this project, which will see it both before the green flag and after every stop button press. This is to ensure status shows properly for backups and restorations of backups.","en"
+"352644974","☁️ Infinite Cloud Project Rating System! ☁️ copy","","2019-12-11 00:40:20",\N,\N,"1","0","0","","en"
+"352651017","Untitled","","2019-12-11 01:13:54",\N,\N,"1","0","0","","en"
+"353226508","Nambaseking01 OS copy","*PLEASE READ EVERYTHING HERE BELOW BEFORE SAYING ANYTHING IN THE COMMENTS*\
+- Notes -\
+Please don't report me for making this; @Nambaseking01 gave me permission, as shown in the link to the comment below:\
+https://scratch.mit.edu/users/Nambaseking01/#comments-64585650\
+If you can't read the comment, it says:\
+\"Go ahead, but I'm currently busy with creating Proli, so I can't help you create the OS.\"\
+If you decide to remix, please keep the invisible rectangles on the clock hands. They are used to prevent the clock hands from not showing. Please see the person who pointed out the bug below.\
+When clicking on the music icon, the song will be played, which you can click on to pause and play the song (extra ellipsis costume shown while loading sound to play from paused sound). The longer the sound has played before it paused, the longer it will take to load when continuing play (because of the wait block). The icon should switch back to the music emoji after finished playing, but sometimes it's delayed; however, it's not my fault.\
+I apologize that I can only play one song, the song sometimes resumes at the wrong point, and I can move the mouse pointer onto the button while down from outside the button and then release the mouse instead of clicking, but @EIephant_Lover doesn't allow me to edit the two pause/play scripts (a broadcast and a function).\
+Sometimes, I have more than one user crediting me for inspiring me to do a certain app. When I credit the extra users, I don't credit the original user anymore; because he/she was already credited for being the first inspiration of the (thing). However, the numbers related the words (triple (3), quadruple (4)) include the original person credited as well.\
+-- Changelog --\
+Nov. 27, 2019 - Shared for Help with Scripts forum w/ title \"Nambaseking01 OS (BETA)\".\
+Nov. 30, 2019 - Unshared.\
+Dec. 01, 2019 - Reshared!\
+Dec. 01, 2019 - Added sound for Pong game.\
+Dec. 02, 2019 - Added tick sound for clock and changed scripts (and changed them again!).\
+Dec. 03, 2019 - Removed tick sound for clock as the new script was causing issues.\
+Dec. 03, 2019 - Added turbo mode detector prior to playing Pong!\
+Dec. 05, 2019 - Used a better way to determine the unlock code!\
+Dec. 05, 2019 - Fixed script as code wasn't working. The bug: it checked the first character and not a new one each time.\
+Dec. 06, 2019 - Added special function to lock/unlock clicker app. Only available to these users (please request addition/removal of privileges in the comments, and you must be of Scratcher status to register, as it uses cloud variables):\
+@kChiaEC19 (me)\
+@Nambaseking01\
+@Nambaseking02\
+@Nambase_Test\
+@DoNotFoIIowMe\
+@MossW\
+Dec. 06, 2019 - Fixed the following typo: *removed due to bad word detector*\
+Dec. 11, 2019 - Reshared as I unshared it by mistake.\
+- Credits -\
+Beta testing by me!\
+Credit to @joshiesays for the recursive thumbnail tutorial!\
+Credit to @Nambaseking01 for the logo, as well as the text color, which matches the color of the crown in the logo! (I imported it as a profile picture and then changed it to vector, then I added text.)\
+Credit to @qucchia for two things: pointing out the one line only vector sprites bug and its workaround, and the idea of putting warning texts behind bitmap images in vector images!\
+Credit to @54329 for inspiration for the clock (quadruple inspiration for clock; extra credit goes to @8243874, @BirdNani, and @Andy_Fish2121), clicker, camera (triple inspiration for camera; extra credit goes to @BirdNani and @JWhandle), menu button, music, and special function (double inspiration for special function; extra credit goes to @SirFlimFlam, but named administrative function on his side)!\
+Credit to @EIephant_Lover for the pause/resume sound scripts!\
+Credit to @Scratchteam for inspiration to make a pong game (I used the same backdrop too!)!\
+Credit to @adazem009 for the \"if touching sprite, bounce\" tutorial (and script portion)!\
+Credit to @TenType for the turbo mode detector!\
+Loved and favorited by @Nambaseking01!\
+Credit to Lil Nas X from YouTube for the music!","2019-12-12 14:39:27",\N,\N,"1","0","0","*PLEASE READ EVERYTHING HERE BELOW IN CASE THERE'S AN EMOJI FONT RENDERING PROBLEM WITH YOUR DEVICE*\
+Login/Logout Code: 1234\
+You can't actually take pictures and videos with the camera.\
+This is mobile-friendly and you can click on the labeled (words) or emojified icons!\
+Clicking on the clicker icon will result in your click being added to the database.\
+Picture icons (if you can't see the emoji):\
+Top left: Camera\
+Top middle: Clock\
+Bottom left: Music w/ pause/play (can change emoji from time-to-time)\
+You can play only the song Lil Nas X - Old Town Road.\
+The song will stop (and you have to restart too!) when logged out.\
+- Pong -\
+Use mouse to move paddle. If you touch the paddle, the score increases by 1 and the ball moves a little faster. If you touch the red line, the game is over.","en"
+"353812553","Homework  remix",\N,"2019-12-14 01:10:35",\N,\N,"1","0","0","Here's another animation!\
+\
+Disclaimer: This is not intended to hurt anyone, such as students or teachers. \
+\
+Please heart and star! School got in the way, so it took like 3 days to make this :P","en"
+"354098560","Find the plural of any word!","Please let me know any bugs in the comments!","2019-12-16 03:34:24",\N,\N,"1","0","0","Instructions in project.\
+The plural of the word you entered will show for two seconds; if you didn't see it, you can enter the word again.","en"
+"354417249","Sign To Stop Bullying! remix remix remix remix remix remix remix remix remix remix remix remi… remix","Credit to everyone on the list!\
+I realized that the music came from the Scratch sound/asset library recently.","2019-12-17 01:16:49","2019-12-17 01:18:09","2019-12-17 01:18:09","26","3","2","Bullying is NOT okay. It needs to stop. If people keep bullying on Scratch, it will become a hateful, non-safe place for people to be creative. There are some Scratchers out there who are as young as six-years old, and if Scratch becomes an un-safe place, they won't have fun on Scratch anymore. If you were a first-grader and were being cyber bullied, you wouldn't tell anyone. You would be scared, and the bully would keep coming and coming at you until you were so miserable that you left Scratch. We need to fight against this. We need to stop this. We need to stop the world from filling with hate. We need to make Scratch a kind, caring place for people of all ages. I hope you'll join the cause.\
+- @NinjaLlama567","en"
+"355840891","☁️ Infinite Cloud Project Rating System! ☁️ copy","NOTE: New Scratchers and signed-out users cannot rate! Also, this was shared twice, because the other person didn't accept the first server request.\
+Thanks to @haydenledean for the non-24/7 server @-ReadyBoy-!\
+This is currently in beta, so you can feel free to comment your rating and I will check it to make sure the rating was set properly on the server. Once enough ratings commented have been found correct by me (through the owner's login function), I will put another announcement in the comments and remove this notice.\
+Credit to the Scratch Wiki for the phosphorus.github.io/sulfurous.aau.at detector (only works in forkphorus.github.io because of 3.0), the \"when this sprite clicked\" workaround,  the \"letters () through () of ()\" workaround, and the \"join ()()\" workaround (I modified some of the names in the last two).\
+The server script (the broadcast) is way, WAY, WAYYYY simpler than the client script.\
+The reason why I used a workaround for the \"join ()()\" block is because the backup codes may be longer than the number of characters the block can output (10,240), while the workaround can also work around that problem where the join ()() block is only allowed to output the first 10,240 characters of the string.\
+You can only see your own ratings on the project viewer, not percentages or other users' ratings, to prevent cyberbullying.\
+Due to technical limitations on Scratch, the server's lists can only hold 200,000 users.\
+Credit to @imfh for help on the Help with Scripts forum!\
+I created this because I wanted to create a complex workaround for a rejected suggestion on Scratch. \
+Thanks @SirFlimFlam for viewing (first share)!\
+Thanks @haydenledean for loving and favoriting!","2019-12-22 22:51:54",\N,\N,"1","0","0","Click on a different star than your previous rating to rate.\
+Click on the same star as your previous rating to remove your rating.\
+Once you click on a star and post your rating to @-ReadyBoy-, your rating will download again. If you see the wrong rating, either there is a bug with the project or the cloud data was sent incorrectly either in the logs or the actual data (which should only happen one in every few billion or so, due to computer technology advancing nowadays).\
+View your project's status in the top left corner.\
+Note: Status will not always show.\
+(Important: All instructions below are for @-ReadyBoy- only.)\
+- How to Backup Ratings -\
+Press the B key to save backups.\
+Answer the prompt to confirm.\
+Wait for the backup code to generate.\
+Triple-click the list item to select it.\
+Press Ctrl+C or right-click on the selected part → Copy.\
+Save it somewhere by creating a new text box or overwriting the previous text box (for overwriting existing backups) that can save in a program or website that can save text and pressing Ctrl+V or right-click on the text box → Paste.\
+Click outside of the list to hide the save code. Make sure you saved it somewhere beforehand!\
+- How to Restore Backups -\
+Press the R key to restore backups.\
+Answer the prompt to confirm.\
+Locate the file where the backup code was saved and open it up with the same program or website in which you saved the backup code in.\
+Triple-click the text box that shows up on the program or website to select the line.\
+Press Ctrl+C or right-click on the selected part → Copy.\
+Go back to the browser in which you opened the project up on and click on the project's input box.\
+Press Ctrl+V or right-click on the project's input box → Paste.\
+Note: I highly recommend doing these while the project is stopped to prevent the backup/restore codes from not working properly.\
+Note 2: @-ReadyBoy- won't see the thumbnail at all after clicking the green flag, even if the stop button is pressed, unlike the rest of the people on this project, which will see it both before the green flag and after every stop button press. This is to ensure status shows properly for backups and restorations of backups.","en"
+"355845166","☁️ Infinite Cloud Project Rating System! ☁️ copy","NOTE: New Scratchers and signed-out users cannot rate! Also, this was shared twice, because the other person didn't accept the first server request.\
+Thanks to @haydenledean for the non-24/7 server @-ReadyBoy-!\
+This is currently in beta, so you can feel free to comment your rating and I will check it to make sure the rating was set properly on the server. Once enough ratings commented have been found correct by me (through the owner's login function), I will put another announcement in the comments and remove this notice.\
+Credit to the Scratch Wiki for the phosphorus.github.io/sulfurous.aau.at detector (only works in forkphorus.github.io because of 3.0), the \"when this sprite clicked\" workaround,  the \"letters () through () of ()\" workaround, and the \"join ()()\" workaround (I modified some of the names in the last two).\
+The server script (the broadcast) is way, WAY, WAYYYY simpler than the client script.\
+The reason why I used a workaround for the \"join ()()\" block is because the backup codes may be longer than the number of characters the block can output (10,240), while the workaround can also work around that problem where the join ()() block is only allowed to output the first 10,240 characters of the string.\
+You can only see your own ratings on the project viewer, not percentages or other users' ratings, to prevent cyberbullying.\
+Due to technical limitations on Scratch, the server's lists can only hold 200,000 users.\
+Credit to @imfh for help on the Help with Scripts forum!\
+I created this because I wanted to create a complex workaround for a rejected suggestion on Scratch. \
+Thanks @SirFlimFlam for viewing (first share)!\
+Thanks @haydenledean for loving and favoriting!","2019-12-23 00:05:12",\N,\N,"1","0","0","Click on a different star than your previous rating to rate.\
+Click on the same star as your previous rating to remove your rating.\
+Once you click on a star and post your rating to @-ReadyBoy-, your rating will download again. If you see the wrong rating, either there is a bug with the project or the cloud data was sent incorrectly either in the logs or the actual data (which should only happen one in every few billion or so, due to computer technology advancing nowadays).\
+View your project's status in the top left corner.\
+Note: Status will not always show.\
+(Important: All instructions below are for @-ReadyBoy- only.)\
+- How to Backup Ratings -\
+Press the B key to save backups.\
+Answer the prompt to confirm.\
+Wait for the backup code to generate.\
+Triple-click the list item to select it.\
+Press Ctrl+C or right-click on the selected part → Copy.\
+Save it somewhere by creating a new text box or overwriting the previous text box (for overwriting existing backups) that can save in a program or website that can save text and pressing Ctrl+V or right-click on the text box → Paste.\
+Click outside of the list to hide the save code. Make sure you saved it somewhere beforehand!\
+- How to Restore Backups -\
+Press the R key to restore backups.\
+Answer the prompt to confirm.\
+Locate the file where the backup code was saved and open it up with the same program or website in which you saved the backup code in.\
+Triple-click the text box that shows up on the program or website to select the line.\
+Press Ctrl+C or right-click on the selected part → Copy.\
+Go back to the browser in which you opened the project up on and click on the project's input box.\
+Press Ctrl+V or right-click on the project's input box → Paste.\
+Note: I highly recommend doing these while the project is stopped to prevent the backup/restore codes from not working properly.\
+Note 2: @-ReadyBoy- won't see the thumbnail at all after clicking the green flag, even if the stop button is pressed, unlike the rest of the people on this project, which will see it both before the green flag and after every stop button press. This is to ensure status shows properly for backups and restorations of backups.","en"
+"355851018","Cloud Multiplayer Ball Game!","BTW, I reshared this project. This is not to exploit the trending glitch, but just so more people can see this unnoticed project.\
+Credit to @Cloud-Multiplayer for the original project and the music from their cloud multiplayer zombie run game at https://scratch.mit.edu/projects/331530267!\
+Credit to @joshiesays for the recursive thumbnail tutorial!\
+Credit to @-CodePro- for some help with scripts!\
+Loved and favorited by @haydenledean!","2019-12-23 01:26:28","2021-03-06 18:33:42","2019-12-23 19:58:46","123","7","4","Use the arrow keys, WASD, or your finger on mobile to move.\
+You can move through balls and everything like that (except for going through the edge).\
+You start at a random position outside of the edge.\
+If you don't believe me, please test on two tabs/windows or check the cloud data logs.","en"
+"355869245","Zero Sprites Contest!","Music: Invincible by DEAF KEV\
+https://youtu.be/J2X5mJ3HDYE\
+I was inspired by @Loev06's one sprite contest a while ago, and then @xxscienceboyxx's Gobo Needs a Haircut (which got featured) was put in a One Sprite studio made by the owner. Months later, a comment was posted in the same studio (I don't remember the username) of someone claiming to have a zero-sprite project. A few months after that, I wanted to make a zero sprites contest! So, here you go!\
+Loved by @TheSoccerDude16 (upon viewing request) and @1O1Andrew!","2019-12-23 05:35:28","2019-12-23 18:19:29","2019-12-23 18:19:29","237","18","12","Use the arrow keys, A/D, or tap on the left or right of the project frame to navigate through or against the slides.\
+Please do not use Turbo Mode; I am too lazy to add a detector inside the project, and having it on ruins the fade-in and fade-out effects within the slides.","en"
+"355939006","Untitled","","2019-12-23 18:27:13",\N,\N,"1","0","0","","en"
+"355939459","Zero Sprites Contest! copy","I was inspired by @Loev06's one sprite contest a while ago, and then @xxscienceboyxx's Gobo Needs a Haircut (which got featured) was put in a One Sprite studio made by the owner. Months later, a comment was posted in the same studio (I don't remember the username) of someone claiming to have a zero-sprite project. A few months after that, I wanted to make a zero-sprites contest! So, here you go!","2019-12-23 18:32:17",\N,\N,"1","0","0","Use the arrow keys or tap on the left or right of the project frame to navigate through or against the slides.\
+Please do not use Turbo Mode; I am too lazy to add a detector inside the project, and having it on ruins the fade-in and fade-out effects within the slides.\
+*Still trying to get a good screenshot of a sprite for the thumbnail though*","en"
+"355954402","1D Platformer, but it's mobile-friendly","@Za-Chary* for the original project!\
+@qucchia for the mobile-friendly platformer tutorial!\
+The Scratch Wiki for the \"when stop sign clicked\" workaround!\
+Loved by @ArtiTech!","2019-12-23 21:49:52","2019-12-23 22:03:55","2019-12-23 22:03:55","125","12","7","Use the left and right arrow keys, WASD, or your finger on mobile to move. Do not turn on ⚡️ Turbo Mode.","en"
+"355986337","Untitled","","2019-12-24 05:18:08",\N,\N,"1","0","0","","en"
+"356057683","Paddle2See but all of the information are reversed","When changing the locations, I used Google Maps to determine where the exact opposite of the Earth would be. They both happened to be in the Indian Ocean.\
+Credit to @Paddle2See for the original profile!\
+\
+Update: censored out my old username and replaced it with my new one","2019-12-24 21:10:34","2019-12-24 21:15:40","2019-12-24 21:15:40","64","2","2","","en"
+"356073390","Countdown to New Year's Day (in your timezone)","For December 2019's Scratch Design Studio.","2019-12-25 02:19:17","2019-12-26 04:55:26","2019-12-25 02:34:32","5","0","0","","en"
+"356140777","Scratch 3.0 vs. Scratch 2.0 vs. Forkphorus detector","Clones don't limit in Forkphorus.","2019-12-25 20:45:29","2019-12-25 20:52:22","2019-12-25 20:52:22","22","1","1","Wait a bit before you see the result or try turbo mode for a faster result.\
+\
+I was too lazy that day.","en"
+"356144003","Everyone who loves, favs, or remixes this gets on the list","Sorry that the project is blank. (I really thought that this project would get me immediately famous back then.)\
+The people who loved this project:\
+Last updated: Dec. 27, 2019 at 10:26 AM PST (GMT-0800)\
+@46009361 (me; recently unloved and reloved the project to bump this up to my current followers' \"What's Happening?\" sections.)\
+@Haluria_games\
+@ExplainingStuff\
+The people who favourited this project:\
+Last updated: Dec. 25, 2019 at 2:03 PM PST (GMT-0800)\
+@46009361 (me)\
+@ExplainingStuff\
+The people who remixed this project:\
+Last updated: Dec. 25, 2019 at 2:03 PM PST (GMT-0800)\
+(none)\
+","2019-12-25 21:58:49","2019-12-25 22:20:35","2019-12-25 22:20:35","11","4","3","","en"
+"356147177","Cloud Combination Safe (Cloud Safe)","Please don't report for the freely allowing input; @Paddle2See thought it sounded okay: https://scratch.mit.edu/users/Paddle2See/#comments-66039436\
+If you search \"cloud safe\", you will see a lot of cloud-based safe chat projects, but no one actual safe. I decided to make this because I got a money safe for Christmas this year, 2019.\
+I backpacked @SirFlimFlam's \"Error3\" costume (credit to him!) from https://scratch.mit.edu/projects/312962723/ to this project and made some modifications to the costume to fit in with this project.\
+Credit to @-Rex- for the cloud shape taken from your Cloud List Engine's thumbnail!","2019-12-25 23:17:31","2019-12-27 05:56:12","2019-12-26 20:49:17","448","25","21","There is a New Scratcher detector.\
+Use the mouse by clicking on the buttons. Button legend:\
+Numbers - Type in a number and it may add to the number you entered. If you type a number when the number you've entered is exactly 256 characters (to match cloud limits when setting combinations), you will be alerted.\
+C - Stands for Clear. Undoes the last digit you entered if there is one. If not, you'll be alerted.\
+E - Stands for Enter. Either checks if the current combination is right, or sets it as a new combination if there are none and you didn't try to set an empty combination (you will also be prompted to type in what items you want for the safe). Also clears out the number you entered.\
+You won't be able to see what items are in the safe unless it is unlocked.\
+To prevent conflicting uploads, there's a queue. It can also check if someone left during the upload. This is to prevent two people from setting a combination at once. It also checks if the safe is still unlocked once the queue clears out.\
+If you find any inappropriate items in the safe when you unlock it (or when it is already unlocked), please post a comment saying what username you see in the variable called \"user who last locked the safe\" (who also inputted the items) and what you saw for the variable \"items in the safe\". I will then check the cloud data logs to confirm. If you are right, I will give the other user (the one acting inappropriately) a strike. If you are wrong (with the exception of typos; in this case, I will give the other user a strike), the commenter (the accusing player) will get a strike. After a specific user gets three strikes (I may also include alternate accounts if they mention about it), they won't be allowed to use the project anymore. I may take back a strike from a username for reasons such as a typo in the username I entered, or if the user became respectful or was hacked at the time. The strike system is used only to teach users a lesson not to put inappropriate content in places where everyone can see it (e.g. cloud variables). Nothing will happen to the user on the first or second strike for now. I plan on adding these features later.\
+Using Text-to-Speech because I don't want to create lots of backdrops.","en"
+"356228418","Untitled","","2019-12-26 19:06:28",\N,\N,"1","0","0","","en"
+"356229537","April Fools' Day Fun, but the white is taken off from the Baby Jester image","Baby Jester image obtained from California Costumes website. Link: https://express.google.com/product/California-Costumes-10044-Infants-Lil-Jester-Infant-Multi-18-24mo/6248408296428477562_1091696979340841308_3857033\
+I managed to cut off most of the white using Pixlr's cutout tool after filling the image with white using Scratch's fill tool.\
+Credit to @Paddle2See (and he loved and favorited within the first hour)!\
+I know it's not April Fools' Day, but whatever.","2019-12-26 19:22:56","2019-12-26 20:25:16","2019-12-26 20:25:16","104","9","7","What is April Fools' Day? How does it work?","en"
+"356243579","Untitled","","2019-12-26 23:54:59",\N,\N,"1","0","0","","en"
+"356316770","Taco Quest - Simple Maze, but it's mobile-friendly","Because @Paddle2See (credit to him!) didn't want to make the original project mobile-friendly, I just decided to remix.\
+Because there is a bug in iPadOS where you sometimes cannot see bitmap images in vector images on WebGL until you refresh the page, I used pngtosvg.com to convert the Sam image to SVG.\
+Loved by @Paddle2See!\
+Music: www.bensound.com \"A New Beginning\" http://parrygripp.com/ \"Crunchy Taco\"","2019-12-27 17:52:28","2019-12-27 18:17:05","2019-12-27 18:17:05","65","5","4","Here's a simple maze for you, just get to the tasty taco to win!\
+\
+Arrow keys, WASD, or finger on mobile to move; click on the character to change it.","en"
+"356335342","","","2019-12-27 22:57:57",\N,\N,"1","0","0","","en"
+"356338089","New Case Sensing Detector (using sounds)","Most of the scripts are from the Scratch Wiki's two-costume method.\
+How it works:\
+Both sound names and the play sound () until done block are case-sensitive. After typing it a letter, it resets the timer, plays the sound, and checks if the timer is greater than a certain number. The sound was muted using the Sound Editor.","2019-12-27 23:52:13","2019-12-28 15:50:05","2019-12-28 15:42:29","53","5","3","Type a letter and see its case.\
+\
+Currently allows only Latin letters without diacritics.","en"
+"356345335","Untitled","","2019-12-28 02:10:36",\N,\N,"1","0","0","","en"
+"356393159","Untitled","","2019-12-28 17:00:28",\N,\N,"1","0","0","","en"
+"356397924","Flying Game With Save and Load!","Note: This project was reshared so that the capitalization of the title and my username associated with this project would update in searches quickly without me having to wait several months, not to exploit the trending glitch at https://en.scratch-wiki.info/wiki/Trending_Glitch. If it happens to show back up in Trending, that is not on purpose unless it is actually receiving a lot of loves and favourites again. This project is marked FE (For Everyone) according to @Jeffalo's https://jeffalo.net/projects/nfe/! You can learn more about project review statuses at https://en.scratch-wiki.info/wiki/Project_Review_Status. The original share date was December 30, 2019.\
+\
+Curated by @LlamaGodLuke on March 2, 2020!\
+\
+I personally tested this out on an external Scratch project player called Forkphorus before release, and realized that there was a bug that wasn't found before in the actual project. The bug is, when you click on Stage monitors, \"<mouse down?>\" doesn't activate on Scratch (as it's most likely supposed to), while it activates on Forkphorus. (I'm not sure if @GarboMuffin's TurboWarp fixed this issue, but I didn't know about TurboWarp at the time this project was shared.) So, I used an existing detector (and gave credit; see below).\
+Using Scratch's tutorial, but added a save and load feature! Also made the costumes random rather than \"next costume\", making points lost if you don't collect it in time, and checking that hearts were already recently scored without using \"wait () seconds\"!\
+Credit to @sippingcider for the idea of using semicolons to separate varying-length pieces of information on an unencrypted version of an encrypted save code! Unfortunately, the savecode tutorial project was unshared. :( (I made sure not to use a semicolon anywhere else.)\
+Credit to @joshiesays for the recursive thumbnail tutorial!\
+Credit to the Scratch Wiki for part of the turbo mode script, the \"when this sprite clicked\" workaround, and the Phosphorus player detector (used for Forkphorus; Phosphorus only works on Scratch 2.0-styled projects)!\
+Thumbnail exported in PNG by hiding the thumbnail, moving some sprites, and hiding some variables, then converted to SVG using pngtosvg.com. I also had to change the color palette before converting by clicking on a color and then replacing it with a proper, good one in the photo; making sure they match the actual nine colors on the picture, rather than just the color guesses that the computer made.\
+Credit to @Toe-man for the idea of not letting the cat follow if it's touching the mouse-pointer!\
+\
+Also, I was going to use cloud data to determine the highscore and the lowest score ever done in this project, but since I didn't want people to manipulate their savecodes just to get them on the top or bottom of the scoreboard after loading, I decided to remove it before release.\
+Loved and favorited by @TheSoccerDude16!\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+Can you find an easter egg in this project? Please don't leak it in the comments; I will delete it if you do so — and I will replace it with a new one.","2019-12-28 18:10:31","2021-04-23 19:48:45","2019-12-28 21:28:39","7458","96","77","Rules:\
+You are the flying orange cat. You must move to collect the hearts. The controls for moving the cat are in the section called \"Controls:\" below.\
+If you collect a heart, you get a point.\
+If you miss a heart, you lose a point if you don't catch it before it goes back to the right side; otherwise, you don't lose a point (obviously because you caught it). Negative points are allowed.\
+You cannot fly past the edge.\
+Please don't use Turbo Mode or external Scratch players. See what happens here: https://forkphorus.github.io/#356397924\
+\
+Controls:\
+Arrow keys, WASD, or finger on mobile to move.\
+Buttons to save and load.\
+Savecodes can take a while to generate/load and are locked per username. Make sure to save it somewhere where you can retrieve it later!\
+Click outside of the list to hide the savecode.\
+\
+When remixing, make sure to keep the costume names for the heart, cloud, and building whitelisted using only the characters I have on my list (if you decide not to change that list).","en"
+"356468498","Untitled","","2019-12-29 17:33:16",\N,\N,"1","0","0","","en"
+"356479646","Untitled","","2019-12-29 20:25:18",\N,\N,"1","0","0","","en"
+"356559807","Motion blocks in the Stage!","Disclaimer: These don't actually work. Even if you click on the block \"point towards (mouse-pointer v)\", the direction block will still report 90.\
+How I did it:\
+First, I dragged all of the Motion blocks directly from a cat-like sprite to the Stage; next, I deleted the sprite; then, I deleted the unnecessary variable and sound from the Stage; finally, I cleaned up the blocks in the Stage.","2019-12-30 16:55:54","2019-12-30 17:01:51","2019-12-30 17:01:51","16","2","2","","en"
+"356664022","Untitled","","2019-12-31 18:25:50",\N,\N,"1","0","0","","en"
+"356668257","Profile Picture for @TenHype","How I did it:\
+Downloaded the profile picture\
+Opened it in Pixlr\
+Checked the Invert option\
+Removed the white using the Magic Cutout tool\
+Downloaded it (resized it to match the original size)\
+Used Scratch to fill the transparent spots with white\
+Obviously, make sure to give credit to me!","2019-12-31 19:31:04","2019-12-31 19:52:28","2019-12-31 19:52:28","14","3","1","For @TenHype Only (though anyone can be inspired by this)\
+Click \"See inside\" → \"Backdrops\" → Right-click on costume → \"export\"\
+On your profile page, hover over icon → \"Change\" → find the downloaded file → Select/Open","en"
+"356697625","3d test","","2020-01-01 05:24:51",\N,\N,"1","0","0","","en"
+"356698498","Untitled","","2020-01-01 05:49:02",\N,\N,"1","0","0","","en"
+"356731908","Stamping 3D test","Inspired by @FUNUT's tutorial on YouTube.\
+\
+Note: It's really 2.5-dimensional, not three-dimensional.","2020-01-01 16:55:36","2020-01-01 17:03:05","2020-01-01 17:03:05","36","5","4","Use the mouse to rotate the cat.","en"
+"356733005","This animation can be three things depending on how long your username is","Disclaimer: None of the names shown here are my real name or username. These are just what Scratch calls them in the sprites library.\
+@-MCMasterz- and @JWhandle (first, @-MCMasterz- made the original; then, @JWhandle changed it; finally, I removed the unused attribute) for the talking script. Also created a thinking script to match the talking script.","2020-01-01 17:10:52",\N,\N,"1","0","0","If your username is one of the lengths below, you will get the animation shown below.\
+Short (3–8 characters):\
+My Thoughts on Spam\
+Medium (9–14 characters):\
+The Problem with Using Scratch on Phones\
+Long (15–20 characters):\
+I don't know what next…","en"
+"356844557","Sign To Help Stop Animal Abuse remix remix remix","Credit to @wafflesthecupcupcake, @Alledancer97, and @WearPanda!","2020-01-02 16:19:07","2020-01-02 16:21:17","2020-01-02 16:21:17","10","2","1","REMIX AND THEN SIGN TO SUPPORT","en"
+"356912105","Every Single Old Block in Scratch","Because this was made in the Scratch 1.4 offline editor, I could not add the User ID block.\
+\
+Also, I couldn't add (counter), increment counter, and everything like that.\
+\
+I also removed \"forever if <>\", because it somehow converged into an \"if <> then\" block inside a separate \"forever\" block when uploading from Scratch 1.4.","2020-01-03 03:38:55","2020-01-03 03:42:22","2020-01-03 03:38:55","50","3","2",\N,\N
+"357034944","Untitled","","2020-01-04 00:49:06",\N,\N,"1","0","0","","en"
+"357124178","Actual 3D Project","I created this because all my other projects were either 2.5-dimensional or remixes of other existing three-dimensional projects.\
+\
+Thanks to @MathMathMath for the 3D tutorial, @PutneyCat for the script fix (I set x1, y1, and z1 instead of x2, y2, and z2), @DrGaming_92Games for the other bug (about FPS; I fixed it myself), the Scratch Wiki for the FPS counter script (I changed the event block on top), and @ggenije2 (a.k.a. @ggenije) for the new scripts (I modified it) to match pen size — which wasn't in the original tutorial.","2020-01-05 00:12:12",\N,\N,"1","0","0","WASD to move\
+Space to jump\
+Arrow keys to look around","en"
+"357192089","Untitled","","2020-01-05 18:50:17",\N,\N,"1","0","0","","en"
+"357206338","Monospace Text Engine (First Remix)","*Still trying to implement word wrapping, this might take a while.*\
+Please don't worry on the slides where you have to move your mouse if you're on a touchscreen, because you won't get to the next slide until you release the mouse.\
+You will find a slide that will prompt you for an answer right away. However, unless you tell it to, the asking prompt never stops after any amount of time. Therefore, it will always wait for your turn. You can enter an answer after you have read and understood all the text in the slide.\
+There is also an external Scratch player detector from the Scratch Wiki, which is used to determine how it returns an error when not played on Scratch.\
+This engine supports all 95 standard characters supported on an American English QWERTY keyboard and is case-sensitive.\
+Credit to @djpro for inspiration and the idea of using question marks to replace unsupported characters (I modified the idea after).\
+Credit to @-Rex- for the idea of putting the tutorial in the Stage.\
+Credit to @joshiesays for the recursive thumbnail tutorial!\
+(Sorry, sometimes words get broken off before they finish.)\
+One credit I can't seem to find the original owner of - does anyone know? (Please see the Stage if you don't know what I'm talking about.)\
+Please note: I decided to convert the letters to bitmap because the font rendered differently on my other device. Also, although the monospace font is exactly the same in both the thumbnail and the text engine sprite, it just shows the rendering of the same font in two different OSs.\
+\
+For this to truly be monospace, I set some variables containing the width and height each character and line must be apart. These values are the height of the highest character in the entire list of character costumes and the width of the widest character in the entire list of character costumes. I determined these by creating two lists: one for heights and one for widths. Then, I exported both lists; finally, I used a website to sort the file contents numerically - so I can easily determine the highest value in the sorted lists. I also made sure to carefully check the lists both before and after every step.\
+\
+Credit to @qucchia for the original project!\
+\
+Loved and favorited by @TheSoccerDude16!","2020-01-05 22:19:33","2020-01-08 20:43:05","2020-01-08 20:43:05","793","39","29","Click to move forward a slide or end if it is the last slide.\
+Instructions to use in the second-to-last slide of this project.","en"
+"357455990","How to Create Multiple Studios at the Same Time","This prevented me from creating studios after creating too many in a short time period, even after permanent deletion; after that, the \"+ New Studio\" button in the My Stuff page will show an error message (somehow, it currently shows as JSON and not plain text) for a short period of time after this has been done. You can delete these studios at any time.","2020-01-07 05:37:47",\N,\N,"1","0","0","Click on the right or left of the screen to move forward or backward.","en"
+"357711895","choose the studio's thumbnail","pls don't report @pen_hacker let me do this\
+\
+i don't have test account so i'll post it here\
+\
+@snakeywaters for 1st thumbnail\
+\
+@pen_hacker for 2nd thumbnail","2020-01-08 00:23:20","2020-01-08 00:32:19","2020-01-08 00:32:19","13","1","1","this is kinda rushed\
+\
+click to vote\
+\
+there is new scratcher detector\
+\
+i can end or restart the vote using my administrative functions\
+\
+you can vote as many times as you want\
+\
+i dunno when the vote will end. i'll talk to the studio owner about it.\
+\
+the studio link: https://scratch.mit.edu/studios/25607199/","en"
+"357715977","Untitled","","2020-01-08 00:57:41",\N,\N,"1","0","0","","en"
+"358023375","Untitled","","2020-01-09 00:28:36",\N,\N,"1","0","0","","en"
+"358029234","Pitch Effect Test","The sound is exactly two seconds long.\
+\
+@qucchia for the random decimal number trick","2020-01-09 01:15:41",\N,\N,"1","0","0","","en"
+"358274411","Custom Blocks and Workarounds","","2020-01-09 18:30:45",\N,\N,"1","0","0","","en"
+"358279512","Bug: Inconsistent Timer","I noticed different things in different browsers.\
+\
+Apparently, the same sound and pitch effect can show a different number in the timer than another time.","2020-01-09 18:43:54","2020-01-09 23:09:01","2020-01-09 23:09:01","24","4","3","Feel free to turn down your volume if it gets annoying repetitively hearing the sound.","en"
+"358681578","100 Followers Q&A!","Disclaimer: You cannot click on the follow button on the screen. This is only for the thumbnail.\
+\
+This was intentionally reshared due to the fact that this project needs more attention.\
+\
+The title was just recently changed from \"(Reshare) 100 Followers Q&A!\" back to \"100 Followers Q&A!\"\
+\
+*somehow one question got deleted even though I never reported or deleted it*\
+\
+Let me know if the project says the Q&A has ended and I will check!\
+\
+Credits to:\
+Wikipedia for the cursors\
+@TenType for the follow button images (I cropped them using Pixlr after)\
+@Za-Chary and @qucchia for inspiration","2020-01-11 02:05:16","2020-01-18 03:07:08","2020-01-11 03:23:09","55","5","4","This Q&A is closed.\
+\
+Exact duplicate questions (if any) will be filtered out in the answers project.","en"
+"358763669","How to Make a Sprite Go Off the Project Window!","As you may know, Scratch has this annoying habit of preventing sprites from going off the screen so that at least 15 pixels (both horizontally and vertically) (credit to @PullJosh for pointing out the exact amount) are always visible at all times.","2020-01-11 17:34:56","2020-01-11 18:39:30","2020-01-11 18:39:30","128","5","6","Instructions in project.","en"
+"358786259","Untitled","","2020-01-11 21:06:35",\N,\N,"1","0","0","","en"
+"358819373","Untitled","","2020-01-12 04:50:16",\N,\N,"1","0","0","","en"
+"358876830","Vigenère Cipher Encoder/Decoder","I found a lot already existing on Scratch, but none really worked in every circumstance.\
+\
+Tags:\
+#vigenere #vigenère #cipher #encoder #mobilefriendly #mobile-friendly #key #message","2020-01-12 17:09:40",\N,\N,"1","0","0","Enter a case-sensitive (any characters) message (requires at least one letter and cannot be empty) and a case-insensitive key (must only contain letters and cannot be empty) and get your result.","en"
+"358909673","Untitled","","2020-01-12 23:37:56",\N,\N,"1","0","0","","en"
+"358931210","Untitled","","2020-01-13 03:34:33",\N,\N,"1","0","0","","en"
+"359595006","QR Codes - An FPC Application","QR codes will come from qrstuff.com soon.","2020-01-15 01:24:29","2020-01-15 04:03:33","2020-01-15 04:03:33","4","0","0","","en"
+"359609347","Untitled","","2020-01-15 03:20:27",\N,\N,"1","0","0","","en"
+"363306675","Changelog for Nambaseking01 OS","This is the changelog for https://scratch.mit.edu/projects/347998954/.\
+\
+Sorry; currently no music.","2020-01-29 04:23:11","2020-02-01 00:22:08","2020-02-01 00:22:08","22","1","1","Press space, arrow keys, or tap on the left or right of your screen.","en"
+"363618491","Sign To Help The Orangutans From Dying remix remix remix remix",\N,"2020-01-29 23:16:55",\N,\N,"1","0","0","SIGN TO HELP THE ORANGUTANS FROM DYING\
+It is really sad that 2,000 to 3,000 killed in a year there is only 50,000-65,000 orangutans left. you may think that's so much but are you Serious 2,000 to 3,000 being killed in  a hole year so whos with me","en"
+"363981199","Bubbles Video Sensing - but it's for users who don't have a webcam","Credit to @Scratchteam and @chrisg!\
+\
+For the \"Remix a Starter Project\" SDS studio.\
+\
+\
+\
+\
+\
+Credit to @qucchia for the decimal random numbers!\
+Credit to @joshiesays for the recursive thumbnail tutorial!","2020-01-31 00:48:07","2020-01-31 01:00:23","2020-01-31 01:00:23","289","9","5","Touch the mouse/finger with the bubble to pop it. Or, just watch them float up to the top.","en"
+"364134311","Colorful Valentine remix",\N,"2020-01-31 14:55:58",\N,\N,"1","0","0","Valentine's Day is almost here and I felt inspired to make some artwork and share them out as coloring pages ^.^\
+\
+Press space or tap on the screen (on mobile) to cycle through the different coloring pages. Please do remix, I would love to see which one(s) you choose and how you color them! \
+\
+Also feel free to add your own coloring pages! It would be awesome to see what you create :D\
+\
+*boop*\
+=^..^=","en"
+"364422170","100 Followers Q&A Answers!","The sprite to go off the project window scripts were by me and the inspiration was @FUNUT (see my other project for more info)\
+\
+Thanks to @TheLogFather for the initialize/start broadcast idea — the Scratch API (https://api.scratch.mit.edu) for helping me as to whether or not the usernames contained capital i (I)'s, lowercase L (l)'s, or both — and @joshiesays for the recursive thumbnail tutorial (I modified the scripts, so that it starts on the broadcasts and not directly the green flag).\
+\
+Users that asked (in alphabetical order; thanks to @54329 for this part's idea):\
+\
+@coder2045 (1x)\
+@CyrusTheNiceGuy (1x)\
+@DoneFone0624 (1x)\
+@haydenledean (2x)\
+@lnee (1x; only time, not really a question)\
+@yellowtrees (1x)\
+\
+Music: Elektronomia - Sky High → https://youtu.be/TW9d8vYrVFQ","2020-02-01 21:04:50","2020-03-06 04:20:08","2020-03-06 04:20:08","22","3","1","Space, arrow keys, or tap/click on the left/right side of the project window.","en"
+"364557918","When Griffpatch Gets Hacked - An Animation","Hopefully, @griffpatch sees this.\
+\
+@TheLogFather for the \"initialize and start\" broadcast idea.\
+\
+Wikipedia for the cursors (third one made by me by taking portions of one of the existing cursors)\
+\
+Sound effect credits (I modified them by trimming them):\
+Mouse click sound effect:\
+https://www.youtube.com/watch?v=h6_8SlZZwvQ\
+Mouse wheel scrolling sound effect (this one had to be amplified before trimming)\
+https://www.youtube.com/watch?v=dML0oI9qC_k\
+Keyboard typing sound effect:\
+https://www.youtube.com/watch?v=2BUNHd7ENZk","2020-02-02 23:44:47",\N,\N,"1","0","0","I don't think \"spamming\" the flag is a good idea this time; if they are told to spam the flag to crack their screen, younger kids may be encouraged to do so just to make their parents mad. Just click it once; otherwise, the animation may not play.\
+\
+I think Turbo Mode and fullscreen would be the best for this animation.","en"
+"366943210","Flying Game with Save and Load! copy","This project will be curated by @LlamaGodLuke next month!\
+\
+I personally tested this out on an external Scratch project player called Forkphorus before release, and realized that there was a bug that wasn't found before in the actual project. The bug is, when you click on Stage monitors, \"<mouse down?>\" doesn't activate on Scratch (as it's most likely supposed to), while it does activate on Forkphorus. So, I used an existing detector (and gave credit, see below)\
+Using Scratch's tutorial, but added a save and load feature! Also made the costumes random rather than \"next costume\", making points lost if you don't collect it in time, and checking that hearts were already recently scored without using \"wait () seconds\"!\
+Credit to @sippingcider for the idea of using semicolons to separate pieces of information on an unencrypted version of an encrypted save code!\
+Credit to @joshiesays for the recursive thumbnail tutorial!\
+Credit to the Scratch Wiki for part of the turbo mode script, the \"when this sprite clicked\" workaround, and the Phosphorus player detector (used for Forkphorus; Phosphorus only worked during 2.0)!\
+Thumbnail exported in PNG by hiding and moving some sprites and variables, then converted to SVG using pngtosvg.com. I also had to change the color palette before converting by clicking on a color and then replacing it with one in the photo, making sure they match the actual nine colors on the picture; rather than just the color guesses that the servers made.\
+\
+Also, I was going to use cloud data to determine the highscore and the lowest score ever done in this project, but since I didn't want people to manipulate their savecodes just to get them on the top or bottom of the scoreboard after loading, I decided to remove it before release.\
+Loved and favorited by @TheSoccerDude16!\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+Can you find an easter egg in this project? Please don't leak it in the comments; I will delete it if you do so – and I will replace it with a new one.","2020-02-10 23:44:04",\N,\N,"1","0","0","Rules:\
+You are the flying orange cat. You must move to collect the hearts. The controls for the moving are in the section called \"Controls\": below.\
+If you collect a heart, you get a point.\
+If you miss a heart, you lose a point if you don't catch it before it goes back to the right side; otherwise, you get a point (obviously because you caught it). Negative points are allowed.\
+You cannot fly past the edge.\
+Please don't use Turbo Mode or external Scratch players. See what happens here: https://forkphorus.github.io/#356397924\
+\
+Controls:\
+Arrow keys, WASD, or finger on mobile to move.\
+Buttons to save and load.\
+Savecodes can take a while to generate/load and are locked per username. Make sure to save it somewhere where you can retrieve it later!\
+Click outside of the list to hide the savecode.","en"
+"367687870","Untitled","","2020-02-13 00:26:22",\N,\N,"1","0","0","","en"
+"369003249","30 Random Questions","Original project by @PartyBalloonsYAY\
+Bye hand waving - Google Images\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+@joshiesays for the thumbnail scripts (modified to fit)","2020-02-18 14:40:12",\N,\N,"1","0","0","Click on the arrow to advance to the next slide.","en"
+"369847770","This project exceeds the size limit! remix",\N,"2020-02-20 23:33:57",\N,\N,"1","0","0","In Scratch 3.0 projects cannot be saved on the website if their JSON file occupies more than 5MB. But wait, this one does! Click see inside and look at the variable called \"super long variable\". It's length is of over 8 million, so that means the file will be at least 8MB. Try remixing the project, it won't let you save it unless you delete the variable!\
+\
+Can you figure out how I did it?","en"
+"370001504","Visible factor number generator","A visible factor number is a number that is divisible by each of its non-zero digits. It is a little-known thing, and when someone tried to create a Wikipedia page about it, it got deleted. The first portion of this sequence is also present in https://oeis.org/A002796.\
+\
+Due to Scratch's speed limitations, in order to prevent crashing, the longer the list gets, the more time it will take to determine whether or not a new number is a visible factor number. This depends on your computer speed, as well as how many characters the number that is being checked has.\
+\
+This was inspired by @TRImakethebrainhappy (a.k.a. @makethebrainhappy)'s project, \"Fibonacci Number Generator,\" which I saw on the Scratch Wiki article called \"List\" (https://en.scratch-wiki.info/wiki/List). You can find the original project I was inspired by at https://scratch.mit.edu/projects/72564018/.","2020-02-21 15:17:20","2020-02-21 23:06:49","2020-02-21 23:06:49","11","3","2","","en"
+"370232028","Untitled","","2020-02-22 16:32:23",\N,\N,"1","0","0","","en"
+"370411024","Untitled","","2020-02-24 01:14:18",\N,\N,"1","0","0","","en"
+"370421516","Untitled","","2020-02-24 02:53:48",\N,\N,"1","0","0","","en"
+"372261547","Untitled","","2020-02-29 17:15:34",\N,\N,"1","0","0","","en"
+"372402220","Untitled","","2020-03-01 16:58:57",\N,\N,"1","0","0","","en"
+"372443666","(First Remix) Composition Assignment - The Upside-Down and Reversed Version","Original project by @Za-Chary* (I deleted the \"Don't Delete\" sprite from the original project as well.)\
+\
+(And thanks to the rest of the Scratch Team as well, because there wouldn't have been the \"Reverse\" button on the sound editor without you!)","2020-03-01 23:28:15","2020-03-01 23:58:27","2020-03-01 23:58:27","65","6","3","","en"
+"374362825","Untitled","","2020-03-07 02:35:24",\N,\N,"1","0","0","","en"
+"374514264","Clone Wars 3D ✪✪✪✪✪✪ Star Wars Games Are Awesome! remix remix",\N,"2020-03-08 01:59:41",\N,\N,"1","0","0","❂❂❂❂❂❂❂   CLONE WARS  3D ❂❂❂❂❂❂❂\
+\
+➊ Use ARROW keys, WASD or touchscreen.\
+➋ Blast the clones and grab the goodies.\
+----------------------------------------------------------------\
+Be one of the first to leave a nice comment and I might add you to the Credit Crew!\
+----------------------------------------------------------------\
+More advice for cool gamers:\
+\
+Run about a lot and grabbing ammo and upgrades!\
+You can also leapfrog baddies for huge bonus points.Ground clones can only be shot on the ground.\
+Aerial clones can only be shot from the air!\
+-------------------------------------------------------------------------\
+Tags:  games animation music upgrade space star wars atomicmagicnumber 2020 rocket fantasy roleplay laser boost 2019 awesome fun fast shoot blast starblast starwars ipad iphone mobile  #games #story #animation #music #upgrade #space #star #wars #atomicmagicnumber #2020 #rocket #fantasy #roleplay #laser #boost #awesome #fun #fast #shoot #blast #starwars #starblast #ipad #iphone\
+\
+__________________________________________\
+Official Bonus Cheat to thank you for reading this stuff.\
+\
+On the Intro screen, click on the Death Star to increase your maximum shields by 2!\
+\
+\
+","en"
+"374596013","Draw (Contest Entry)","To @BlueNoodle29, if you are seeing this, I ONLY changed a lot of stuff, but I didn't delete anything except the monkey and old thumbnail; only changed and added. For example, I changed the mouse-pointer sprite and made everything vector.\
+\
+Original project by @BlueNoodle29\
+Mouse trail by @Orange_Lion\
+Pencil and squiggle drawing by @run_script (backpacked as a costume from his/her project, then modified to fit)\
+Scratch Wiki for the idea of using \"clone ID\"s and Turbo Mode/Forkphorus (actually Phosphorus, but it's still the same results) detectors (backpacked from my other project)\
+Recursive thumbnail tutorial by @joshiesays!\
+\
+Everything here is completely mobile-friendly, unlike the original project (which got unshared).","2020-03-08 17:11:33","2020-03-10 03:40:43","2020-03-10 03:40:43","70","2","1","Move the mouse/finger to draw. Hold the mouse/finger down while moving for the drawing to show up. The default colour is red.\
+\
+Sorry, you can't erase certain parts of your drawing due to the limitations of pen; you can only draw, or you can erase your entire drawing.\
+\
+The colours available, from left-to-right, in chronological order, are:\
+red\
+orange\
+yellow\
+green\
+cyan\
+blue\
+purple\
+pink\
+magenta\
+black\
+grey\
+white\
+brown\
+\
+When remixing, if you decide to change a costume name for the colour picker, you must move all the broadcasts to that new name as well; otherwise, it won't select.","en"
+"374640211","200 Followers Special Raffle!","Woah, so many people inspired me to do this:\
+@54329 (a.k.a. @92345-, the studio account owner/@54329_Teacher)\
+@cheekyscuola\
+@C0D3R_N\
+@-canCode-\
+@mine_craft2008\
+@hummus9294\
+@Gangstergamer317 (moved to @FlippyGod)\
+@spaceisawesome09\
+@-123-456-yn\
+@NCP_rainbow_London\
+@KactuskoolerBACK\
+@KatelymoisantB8\
+@FCP308\
+@-BoyMcBoy-\
+@noodlebot743\
+@777bluestar777\
+@DatYoshiStudios\
+@atomicmagicnumber\
+@hcps-kaurb\
+@BlueNoodle29\
+@maroon5finn\
+@VioletCalico\
+@cs2918013\
+@-The_True_Warrior-\
+And more! (Did I miss any usernames?)\
+\
+Confetti effect sprite by @sharkyshar (modified the broadcasts to fit)!\
+\
+Slots:\
+1. @ShaNyiah0818\
+2. @BranHart\
+3. @cs3503378\
+4.\
+5.\
+6.\
+7. @yyeremenko\
+8. @ANASHAH\
+9. @gurlofscratch101\
+10. @krishtheking123\
+11.\
+12.\
+13.\
+14.\
+15. @Lazy_otter2_0\
+16. @TheSoccerDude16\
+17.\
+18.\
+19.\
+20. @IAmInMrWolkensClass\
+21.\
+22.\
+23. @NN0717\
+24. @LL_Whip\
+25.\
+26. @tejash2020\
+27. @AnnoyingKing\
+28.\
+29.\
+30.\
+31.\
+32.\
+33. @dominic305\
+34.\
+35.\
+36.\
+37. @inventing_girl\
+38.\
+39. @right-click\
+40.\
+41.\
+42. @Voxalice\
+43. @MossW\
+44.\
+45.\
+46.\
+47.\
+48. @_the-scratch-club_\
+49.\
+50. @Testimesout33\
+51.\
+52. @sc-animations\
+53.\
+54.\
+55.\
+56.\
+57.\
+58.\
+59.\
+60.\
+61.\
+62.\
+63.\
+64. @MBZ_901\
+65.\
+66.\
+67.\
+68.\
+69. @Jazzy_M\
+70.\
+71.\
+72. @Piggiejake\
+73.\
+74. @adorablenessyes8\
+75.\
+76.\
+77. @coder2045\
+78.\
+79.\
+80.\
+81.\
+82.\
+83. @SirFlimFlam (not following me as an exception)\
+84.\
+85.\
+86.\
+87.\
+88.\
+89.\
+90.\
+91.\
+92.\
+93.\
+94.\
+95.\
+96. @viscape\
+97.\
+98.\
+99.\
+100.\
+\
+Oh, and if you're wondering why I don't have 200 followers yet, I am also counting deleted followers, in case a Scratch Team member ever restores their accounts. This is what happened to @PaddlerGames on the seventh month of 2019.","2020-03-09 00:11:33","2020-03-12 02:02:09","2020-03-12 02:02:09","157","10","8","Comment the number of the slot you want. Slots are in the bottom of the Notes and Credits section of this project. There are exactly one-hundred slots (not necessarily available). The results will come out when all spots are filled! You can only take one spot, but you can ask for it to be moved at any time. Make sure that you don't just comment the number when you want to move your spot, since I will then reply asking if you want to give up your old spot and will see if you are in the list using Ctrl+F.\
+\
+Did the Scratch Team change your username through a Contact Us inquiry? Just comment below saying what your current spot is, and then once I verify that you are the same user (either by the comments about that spot or by my special function to access user IDs, since IDs stay the same when usernames change) who asked for the spot initially, I will edit your spot. (This is no longer needed as I can find a username back from a user ID now.) If you are the wrong user, however, I will have a talk with you on your profile about this — and if it gets to too much extent, I will contact the Scratch Team about this.\
+\
+Prizes (I will be choosing the projects to love/fave):\
+First place: One follow from this account (or a refollow if already done), and two projects to be proposed to be featured.\
+Second place: Three loves and favs.\
+Third place: Two loves and favs.\
+Fourth place: One love and fav.\
+\
+Also, you can only get the prizes at whatever account you commented on, so you won't get it on a different account, unless you are willing to move it to the other account. Make sure to also mention on the second account that you are the first one in a reply right after, and both accounts must follow the same \"Join requirements\" (or at least the new one)!\
+\
+Join requirements:\
+You must be following me (this account; @mouse-pointer is optional and doesn't have much to do with the raffle).\
+At least three shared projects (for prize-giving purposes).\
+Additionally, all users already in the raffle will be checked occasionally and when the raffle ends, in order to make sure that users still follow the requirements. If anyone no longer is or their account has been deleted, their spot will be removed.","en"
+"374988308","Untitled","","2020-03-09 22:24:10",\N,\N,"1","0","0","","en"
+"376593956","Untitled","","2020-03-14 23:35:30",\N,\N,"1","0","0","","en"
+"377965496","and unloved your projects","Haha, gotcha!\
+\
+When you love this project, you will have successfully pranked your followers' \"What's Happening?\" section of your profile page. It will show as \"(insert your username here) loved and unloved your projects.\" This won't work well if you have no followers.\
+\
+Inspired by @LegoManiac04's studio https://scratch.mit.edu/studios/25680763/!","2020-03-20 04:16:08","2020-03-20 04:22:31","2020-03-20 04:22:31","488","287","72","","en"
+"378355814","Untitled","","2020-03-21 16:30:46",\N,\N,"1","0","0","","en"
+"413706719","Untitled","","2020-07-24 17:02:57",\N,\N,"1","0","0","","en"
+"416523018","Untitled","","2020-08-08 03:24:36",\N,\N,"1","0","0","","en"
+"416607840","Untitled","","2020-08-08 16:38:18",\N,\N,"1","0","0","","en"
+"418441460","Untitled","","2020-08-17 23:58:26",\N,\N,"1","0","0","","en"
+"418706243","Untitled","","2020-08-19 02:02:28",\N,\N,"1","0","0","","en"
+"418971692","Untitled","","2020-08-20 02:38:22",\N,\N,"1","0","0","","en"
+"419143087","Untitled","","2020-08-20 19:06:18",\N,\N,"1","0","0","","en"
+"419960378","Untitled","","2020-08-24 20:15:45",\N,\N,"1","0","0","","en"
+"421417003","Untitled","","2020-08-31 01:45:42",\N,\N,"1","0","0","","en"
+"421952958","Untitled","","2020-09-01 23:12:10",\N,\N,"1","0","0","","en"
+"423165459","Untitled","","2020-09-06 21:07:37",\N,\N,"1","0","0","","en"
+"432459175","Untitled","","2020-10-04 18:09:10",\N,\N,"1","0","0","","en"
+"434749430","Pumpkin-Carving Contest Entry","The Living Tombstone for the music. (The original project had the music quite loud for the people with sensitive ears and headphones on, so I clicked the Softer button in Scratch's sound editor three times in this remix.)\
+\
+P.S.: Sorry if I was late because it's past Halloween; I only log on every few days.","2020-10-10 04:09:00","2020-11-15 20:54:09","2020-11-15 20:54:09","26","3","2","Click to mute or unmute the music (will not be muted by default).","en"
+"456074647","Untitled","","2020-11-28 20:47:57",\N,\N,"1","0","0","","en"
+"456075150","Untitled",\N,"2020-11-28 20:51:03",\N,\N,"1","0","0","","en"
+"471737512","Untitled","","2021-01-09 03:42:06",\N,\N,"1","0","0","","en"
+"475016007","Untitled","","2021-01-17 17:37:44",\N,\N,"1","0","0","","en"
+"475115852","Untitled","","2021-01-18 03:58:03",\N,\N,"1","0","0","","en"
+"484246503","Untitled","","2021-02-05 20:41:49",\N,\N,"1","0","0","","en"
+"488703165","Tutorial (won't be shared publicly on Scratch)","","2021-02-16 18:15:48",\N,\N,"1","0","0","","en"
+"501277553","Using the Pan Left/Right Effect Block to Make Realistic Three-Dimensional Cat Meow Sound Effects","Thanks to the now-deleted @joshiesays for the recurring thumbnail tutorial: https://scratch.mit.edu/projects/100598132! (That project's comments are off, but the comment box is showing.)\
+Thanks to @blob8108 for the Scratch block image: https://scratchblocks.github.io/#?style=scratch3&script=set%20%5Bpan%20left%2Fright%20v%5D%20effect%20to%20(100)! (I had to export as PNG because importing the SVG block slightly broke in the Scratch Vector Editor.)\
+Thanks to @Rocket-Flier and @TheGreenFlash for their original projects: https://scratch.mit.edu/projects/313931575 and https://scratch.mit.edu/projects/310833217!\
+Thanks to the Scratch Wiki for the FPS detector: https://en.scratch-wiki.info/wiki/Making_an_FPS_Counter!\
+Thanks to the Scratch editor for the rest of the assets, such as the \"Meow2\" sound and the Cat2 costume!","2021-03-14 04:58:06","2021-03-15 00:17:48","2021-03-15 00:17:48","322","16","10","Move your computer mouse (not the animal mouse!) to move the cat! You'll best understand this with headphones/earbuds on you with the correct polarity placed on the left and the right! Don't place your headphones the wrong way around!","en"
+"501580548","My new side account!","My new side account's username is @Scunthorpe!","2021-03-15 06:01:16","2021-03-15 06:13:38","2021-03-15 06:13:38","18","3","2","Read the Notes and Credits.","en"
+"502126709","Untitled",\N,"2021-03-16 02:35:30",\N,\N,"1","0","0","","en"
+"504654775","Untitled","","2021-03-20 14:05:30",\N,\N,"1","0","0","","en"
+"504798012","Untitled","","2021-03-21 02:33:37","2021-03-21 03:12:22","2021-03-21 02:44:26","2","0","0","","en"
+"505030440","Untitled","","2021-03-21 23:00:47",\N,\N,"1","0","0","","en"
+"505597852","Untitled",\N,"2021-03-22 21:44:00",\N,\N,"1","0","0","","en"
+"506300630","Untitled","","2021-03-24 03:30:08",\N,\N,"1","0","0","","en"
+"510511295","Untitled","","2021-04-02 02:13:59",\N,\N,"1","0","0","","en"
+"510527139","Untitled","","2021-04-02 04:14:10",\N,\N,"1","0","0","","en"
+"510715624","Untitled","","2021-04-02 17:41:21",\N,\N,"1","0","0","","en"
+"511144293","Untitled","","2021-04-04 15:13:34",\N,\N,"1","0","0","","en"
+"511468207","I'm not dead or banned.","Yikes! I haven't shared a project since March 14, 2021! I better share another project, so that people don't think I forgot how to code!","2021-04-05 17:02:13","2021-04-05 23:47:31","2021-04-05 23:47:31","38","2","2","","en"
+"514131812","Untitled","","2021-04-12 01:24:38",\N,\N,"1","0","0","","en"
+"518708499","Untitled","","2021-04-21 01:41:23",\N,\N,"1","0","0","","en"
+"520511172","This project doesn't even load!","Original project: https://scratch.mit.edu/projects/26343756 or https://projects.scratch.mit.edu/26343756 to download the original file (you have to manually add the .sb3 extension) by @Zro716!\
+@PaddlerGames did the same idea before, but his project is unshared.","2021-04-24 06:14:54","2021-04-24 06:17:22","2021-04-24 06:17:22","1","2","1","","en"
+"520511550","Untitled","","2021-04-24 06:17:33",\N,\N,"1","0","0","","en"
+"520964037","Confirmed: who joined right before and after griffpatch?","@coolcj12 (joined right before @griffpatch)\
+@griffpatch\
+Account ID 1882675 was skipped (I used the browser-console ping trick)\
+@LlamasEating (joined right after @griffpatch)\
+Why are both accounts inactive, by the way? (@wvj found this before I did by myself.)\
+Please love, favourite, and/or remix to spread the word! I want this to go on the front page!","2021-04-25 22:56:21","2021-04-25 23:04:32","2021-04-25 23:04:32","172","16","12","","en"
+"522283902","Untitled","","2021-04-28 06:17:36",\N,\N,"1","0","0","","en"
+"524040262","Untitled","","2021-05-01 02:42:57",\N,\N,"1","0","0","","en"
+"524276624","How is My Username Pronounced?","I didn't put the answer block directly in the oval-shaped dropdown in the text-to-speech block called \"set voice to ()\" because, when I tried to do that, no matter what answer I put in, the voice stayed the same as its default.\
+\
+Thanks to @papipupepappa for the original project!","2021-05-02 01:53:14","2021-05-02 02:29:55","2021-05-02 02:29:55","136","6","3","Please keep your internet connection on first!","en"
+"528576239","Untitled","","2021-05-11 01:28:26",\N,\N,"1","0","0","","en"
+"529233990","Untitled",\N,"2021-05-12 05:36:38",\N,\N,"1","0","0","","en"
+"530859265","Untitled","","2021-05-15 02:53:46",\N,\N,"1","0","0","","en"
+"531002968","How to change your username temporarily remix",\N,"2021-05-15 16:04:57",\N,\N,"1","0","0","","en"
+"531009045","How to Actually Change Your Username","I was originally going to remix @World_Tutorials' project, but going into the \"Sounds\" tab on the ","2021-05-15 16:32:51",\N,\N,"1","0","0","","en"
+"531106578","Untitled","","2021-05-16 03:02:06",\N,\N,"1","0","0","","en"
+"531278089","Confirmed: who joined right before and after me?","The Scratch Wiki and @Will_Wam for how to remix yourself: https://en.scratch-wiki.info/wiki/Remix#Remixing_Your_Own_Project and https://scratch.mit.edu/projects/237725713!\
+@xaes59754 (joined right before me, @46009361; their account is deleted)\
+@46009361 (same username as user ID)\
+@camargosantiago2007 (joined right after me, @46009361)\
+Why are both accounts inactive and/or deleted, by the way?\
+Please love, favourite, and/or remix to spread the word! I want this to go on the front page!","2021-05-16 18:31:52","2021-05-16 18:49:28","2021-05-16 18:49:28","136","5","4","","en"
